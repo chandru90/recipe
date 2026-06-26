@@ -3,7 +3,7 @@ import { RecipesModel } from "../models/Recipes.js";
 import { UserModel } from "../models/Users.js"; 
 import cloudinary from "cloudinary";
 import multer from "multer";
-
+import fs from "fs";
 import { Ollama } from "ollama";
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
