@@ -42,7 +42,7 @@ app.use("/recipes", recipesRouter);
 
 app.use("/auth", userRouter);
 
-
+app.use("/generaterecipe",generaterecipe)
 
 app.listen(3005, () => {
  console.log("Server started on http://localhost:3005");
