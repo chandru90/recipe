@@ -82,7 +82,7 @@ Requirements:
 - Follow daily calorie and nutrition requirements
 - Use recipes from the document whenever possible
 - Return ONLY valid JSON
-// - Language must be ${loc}
+
 
 Format:
 
@@ -310,7 +310,7 @@ Return ONLY valid JSON.
     "nutritionalinfo":[]
   }
 ]
-// give  text content in  ${loc} language format
+
 
 Document:
 
