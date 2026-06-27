@@ -5,12 +5,13 @@ import cloudinary from "cloudinary";
 import multer from "multer";
 import fs from "fs";
 import { Ollama } from "ollama";
+import { PDFParse } from "pdf-parse";
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
 
 const router = express.Router();
 
-
+s
 const ollama = new Ollama({
   host: "https://ollama.com",
   headers: {
