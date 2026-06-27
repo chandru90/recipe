@@ -11,7 +11,7 @@ const upload = multer({ storage: storage });
 
 const router = express.Router();
 
-s
+
 const ollama = new Ollama({
   host: "https://ollama.com",
   headers: {
