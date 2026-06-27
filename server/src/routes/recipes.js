@@ -25,7 +25,7 @@ router.get("/generaterecipe", async (req, res) => {
     const group = req.query.group || "all";
     const ingredient = req.query.ingredient || "";
 
-    // const loc = "tamil";
+    const loc = "tamil";
 
     const targetAudience =
       group === "kids"
@@ -82,7 +82,7 @@ Requirements:
 - Follow daily calorie and nutrition requirements
 - Use recipes from the document whenever possible
 - Return ONLY valid JSON
-
+- Language must be ${loc}
 
 Format:
 
@@ -242,7 +242,7 @@ router.get("/api/recipes", async (req, res) => {
   try {
     const group = req.query.group || "all";
     const ingredient = req.query.ingredient || "";
-//const loc="tamil"
+const loc="tamil"
     const targetAudience =
       group === "kids"
         ? "Kids"
@@ -310,7 +310,7 @@ Return ONLY valid JSON.
     "nutritionalinfo":[]
   }
 ]
-
+// give  text content in  ${loc} language format
 
 Document:
 
