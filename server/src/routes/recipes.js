@@ -277,42 +277,110 @@ const loc="tamil"
     const ingredientPrompt = ingredient
       ? `Use "${ingredient}" as the primary ingredient whenever possible.`
       : "";
+const prompt = `
+You are an expert chef, clinical nutritionist, and meal planner.
 
-    const prompt = `
-You are an expert chef and nutritionist.
+Your task is to analyze the recipe document and generate a nutritionally balanced 7-day meal plan.
 
-Read the recipe document carefully.
-
-Create a one-week meal plan suitable for:
-
+Target Audience:
 ${targetAudience}
 
+Additional Requirements:
 ${ingredientPrompt}
 
-Requirements:
+Instructions:
 
-- Breakfast
-- Lunch
-- Dinner
-- Healthy and balanced meals
-- Approximate calories
-- Use recipes from the document whenever possible
-give meal plan for - Breakfast- Lunch- Dinner for each day
-Return ONLY valid JSON.
- give recipes fullfilling daily calories requirements and nutritional requirements
+1. Read the entire recipe document before creating the meal plan.
+2. Prefer recipes from the document. Only create a new recipe if no suitable recipe exists.
+3. Create a meal plan for exactly 7 days.
+4. Each day must contain:
+   - Breakfast
+   - Lunch
+   - Dinner
+5. Do NOT repeat any recipe during the week.
+6. Choose recipes that together satisfy the daily nutritional needs of the target audience.
+7. Keep the daily calorie total within the recommended range for the target audience.
+8. Distribute calories approximately as:
+   - Breakfast: 20–30%
+   - Lunch: 35–40%
+   - Dinner: 30–35%
+9. Include approximate calories for every meal.
+10. Include nutritional information for every meal:
+    - Protein (g)
+    - Carbohydrates (g)
+    - Fat (g)
+    - Fiber (g)
+11. Use realistic ingredient quantities.
+12. Preserve recipe names from the document whenever possible.
+13. Do not invent recipes if an appropriate recipe already exists in the document.
+14. Return ONLY valid JSON.
+15. Do not include markdown, explanations, notes, comments, or additional text.
+16. Every text value in the JSON must be written in ${loc}.
+
+Output JSON Schema:
+
 [
   {
-    "title":"",
-    "category":"",
-    "ingredients":[],
-    "instructions":"",
-    "calories":""
-    "nutritionalinfo":[]
+    "day": 1,
+    "dailyCalories": 2000,
+    "meals": {
+      "breakfast": {
+        "title": "",
+        "category": "Breakfast",
+        "ingredients": [],
+        "instructions": "",
+        "calories": 500,
+        "nutritionalInfo": {
+          "protein": "25 g",
+          "carbohydrates": "60 g",
+          "fat": "15 g",
+          "fiber": "8 g"
+        }
+      },
+      "lunch": {
+        "title": "",
+        "category": "Lunch",
+        "ingredients": [],
+        "instructions": "",
+        "calories": 800,
+        "nutritionalInfo": {
+          "protein": "35 g",
+          "carbohydrates": "85 g",
+          "fat": "25 g",
+          "fiber": "10 g"
+        }
+      },
+      "dinner": {
+        "title": "",
+        "category": "Dinner",
+        "ingredients": [],
+        "instructions": "",
+        "calories": 700,
+        "nutritionalInfo": {
+          "protein": "30 g",
+          "carbohydrates": "70 g",
+          "fat": "22 g",
+          "fiber": "9 g"
+        }
+      }
+    }
   }
 ]
-// give  text content in  ${loc} language format
 
-Document:
+Validation Rules:
+
+- Output must be valid JSON.
+- No duplicate recipes.
+- Exactly 7 objects (one for each day).
+- Every meal must include all required fields.
+- Calories should be numeric.
+- Ingredients must be arrays of strings.
+- Instructions must be complete cooking steps.
+- Nutritional values must be realistic.
+- Daily calories should approximately match the target audience's needs.
+- Prefer recipes from the document over generating new ones.
+
+Recipe Document:
 
 ${text}
 `;
