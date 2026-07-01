@@ -6,10 +6,13 @@ import multer from "multer";
 import fs from "fs";
 import { Ollama } from "ollama";
 import { PDFParse } from "pdf-parse";
+
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
 
 const router = express.Router();
+
+
 
 
 const ollama = new Ollama({
@@ -25,7 +28,7 @@ router.get("/generaterecipe", async (req, res) => {
     const group = req.query.group || "all";
     const ingredient = req.query.ingredient || "";
 
-    const loc = "tamil";
+    const loc = "patna";
 
     const targetAudience =
       group === "kids"
@@ -75,12 +78,14 @@ ${targetAudience}
 ${ingredientPrompt}
 
 Requirements:
-
+ give recipes based on ${loc}cusine
 - Give Breakfast, Lunch and Dinner for each day
 - Healthy balanced meals
 - Mention approximate calories
 - Follow daily calorie and nutrition requirements
 - Use recipes from the document whenever possible
+if recipes not available in document create recipes
+give instructions in brief step by step
 - Return ONLY valid JSON
 - Language must be ${loc}
 
@@ -310,6 +315,7 @@ Instructions:
     - Carbohydrates (g)
     - Fat (g)
     - Fiber (g)
+    
 11. Use realistic ingredient quantities.
 12. Preserve recipe names from the document whenever possible.
 13. Do not invent recipes if an appropriate recipe already exists in the document.
