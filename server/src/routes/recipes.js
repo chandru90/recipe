@@ -108,6 +108,7 @@ in batches to a regular blender and blend until smooth.
 
 
 - Give Breakfast, Lunch and Dinner for each day
+plan recipes fulling the calorie requirement for each day and nutritional requirement for the week for ${targetAudience}
 - Healthy balanced meals
 - Mention approximate calories
 - Follow daily calorie and nutrition requirements
