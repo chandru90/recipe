@@ -28,7 +28,7 @@ router.get("/generaterecipe", async (req, res) => {
     const group = req.query.group || "all";
     const ingredient = req.query.ingredient || "";
 
-    const loc = "tamil";
+    // const loc = "tamil";
 
     const targetAudience =
       group === "kids"
@@ -78,7 +78,7 @@ ${targetAudience}
 ${ingredientPrompt}
 
 Requirements:
- give recipes based on ${loc} cusine
+//  give recipes based on ${loc} cusine
 
  give instructions in above format
 **Instructions:**
@@ -115,7 +115,7 @@ in batches to a regular blender and blend until smooth.
 if recipes not available in document create recipes
 give instructions in brief step by step 
 - Return ONLY valid JSON
-- Language must be ${loc}
+// - Language must be ${loc}
 
 
 
@@ -278,7 +278,7 @@ router.get("/api/recipes", async (req, res) => {
   try {
     const group = req.query.group || "all";
     const ingredient = req.query.ingredient || "";
-const loc="tamil"
+// const loc="tamil"
     const targetAudience =
       group === "kids"
         ? "Kids"
@@ -356,7 +356,7 @@ Instructions:
 13. Do not invent recipes if an appropriate recipe already exists in the document.
 14. Return ONLY valid JSON.
 15. Do not include markdown, explanations, notes, comments, or additional text.
-16. Every text value in the JSON must be written in ${loc}.
+// 16. Every text value in the JSON must be written in ${loc}.
 
 
 Output JSON Schema:
