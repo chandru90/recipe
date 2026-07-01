@@ -28,7 +28,7 @@ router.get("/generaterecipe", async (req, res) => {
     const group = req.query.group || "all";
     const ingredient = req.query.ingredient || "";
 
-    // const loc = "tamil";
+    const loc = "tamil";
 
     const targetAudience =
       group === "kids"
@@ -78,7 +78,7 @@ ${targetAudience}
 ${ingredientPrompt}
 
 Requirements:
-//  give recipes based on ${loc} cusine
+ give recipes based on ${loc} cusine
 
  give instructions in above format
 **Instructions:**
@@ -108,6 +108,7 @@ in batches to a regular blender and blend until smooth.
 
 
 - Give Breakfast, Lunch and Dinner for each day
+plan recipes fulling the calorie requirement for each day and nutritional requirement for the week for ${targetAudience}
 - Healthy balanced meals
 - Mention approximate calories
 - Follow daily calorie and nutrition requirements
@@ -115,7 +116,7 @@ in batches to a regular blender and blend until smooth.
 if recipes not available in document create recipes
 give instructions in brief step by step 
 - Return ONLY valid JSON
-// - Language must be ${loc}
+- Language must be ${loc}
 
 
 
@@ -332,7 +333,7 @@ Instructions:
 
 1. Read the entire recipe document before creating the meal plan .
 2. Prefer recipes from the document. Only create a new recipe if no suitable recipe exists.
-3. Create a meal plan for exactly 7 days fullfilling nutritional values for the target audience and list them.
+3. Create a meal plan for exactly 7 days.
 4. Each day must contain:
    - Breakfast
    - Lunch
@@ -356,7 +357,7 @@ Instructions:
 13. Do not invent recipes if an appropriate recipe already exists in the document.
 14. Return ONLY valid JSON.
 15. Do not include markdown, explanations, notes, comments, or additional text.
-// 16. Every text value in the JSON must be written in ${loc}.
+16. Every text value in the JSON must be written in ${loc}.
 
 
 Output JSON Schema:
