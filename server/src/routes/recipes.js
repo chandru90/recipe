@@ -438,7 +438,7 @@ Validation Rules:
 - Nutritional values must be realistic.
 - Daily calories should approximately match the target audience's needs.
 - Prefer recipes from the document over generating new ones.
-
+give instrcitons as summary not less than 400 words
 Recipe Document:
 
 ${text}
