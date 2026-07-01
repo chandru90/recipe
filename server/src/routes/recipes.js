@@ -28,7 +28,7 @@ router.get("/generaterecipe", async (req, res) => {
     const group = req.query.group || "all";
     const ingredient = req.query.ingredient || "";
 
-    const loc = "patna";
+    const loc = "tamil";
 
     const targetAudience =
       group === "kids"
@@ -78,7 +78,7 @@ ${targetAudience}
 ${ingredientPrompt}
 
 Requirements:
- give recipes based on ${loc}cusine
+ give recipes based on ${loc} cusine
 - Give Breakfast, Lunch and Dinner for each day
 - Healthy balanced meals
 - Mention approximate calories
