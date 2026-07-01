@@ -410,7 +410,7 @@ Validation Rules:
 - Every meal must include all required fields.
 - Calories should be numeric.
 - Ingredients must be arrays of strings.
-- Instructions must be complete cooking steps in detail as step by step briefly.
+- Instructions must be complete cooking steps in detail as step by step with more than 5 steps.
 - Nutritional values must be realistic.
 - Daily calories should approximately match the target audience's needs.
 - Prefer recipes from the document over generating new ones.
