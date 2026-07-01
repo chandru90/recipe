@@ -389,7 +389,31 @@ Output JSON Schema:
         "title": "",
         "category": "Dinner",
         "ingredients": [],
-        "instructions": "",
+        "instructions": "**Instructions:**
+
+**1. Sauté the onions and garlic:**
+   - Heat the olive oil in a large saucepan over medium heat.
+   - Add the chopped onion and cook until softened, about 5 minutes.
+   - Stir in the minced garlic and cook for another minute until fragrant.
+
+**2. Build the base of your soup:**
+   - Pour in the diced tomatoes and vegetable broth. Bring to a boil, then reduce heat and simmer for 10 minutes.
+
+**3. Add the spinach:**
+   - Stir in the chopped spinach leaves. Cook until wilted, about 2 minutes.
+
+**4. Season and add cream:**
+    - Season with oregano, red pepper flakes (optional), salt, and black pepper to taste.
+    - Slowly whisk in the heavy cream or half-and-half until well combined.
+
+**5. Blend for smoothness (Optional):**
+   - If desired, use an immersion blender to blend the soup for a smoother texture. Or you can transfer the soup
+in batches to a regular blender and blend until smooth.
+
+**6. Serve:**
+   - Ladle the soup into bowls.
+   - Garnish with your favorite toppings like toasted croutons, Parmesan cheese, or lemon wedges, if desired.
+",
         "calories": 700,
         "nutritionalInfo": {
           "protein": "30 g",
