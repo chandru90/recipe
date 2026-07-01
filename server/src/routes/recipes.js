@@ -292,18 +292,22 @@ const loc="tamil"
 
     // Read PDF
 
-    const pdfBuffer = fs.readFileSync("./reciipes.pdf");
+    const pdfBuffer = fs.readFileSync("./reciipes.pdf,brief_note.pdf");
 
+const briefNoteBuffer = fs.readFileSync("./brief_note.pdf");
     console.log("PDF Loaded");
 
     const parser = new PDFParse({
-      data: pdfBuffer,
+      data: pdfBuffer
+    });
+    const parser1 = new PDFParse({
+      data: briefNoteBuffer
     });
 
     const pdf = await parser.getText();
-
+const pdf1 =await parser1.getText();
     const text = pdf.text.substring(0, 3000);
-
+   const text1 =pdf1.text.substring(0, 3000);
     console.log("========== PDF TEXT ==========");
     console.log(text.substring(0, 500));
     console.log("========== END PDF ==========");
@@ -326,13 +330,13 @@ ${ingredientPrompt}
 
 Instructions:
 
-1. Read the entire recipe document before creating the meal plan.
+1. Read the entire recipe document before creating the meal plan .
 2. Prefer recipes from the document. Only create a new recipe if no suitable recipe exists.
-3. Create a meal plan for exactly 7 days.
+3. Create a meal plan for exactly 7 days fullfilling nutritional values for the target audience and list them.
 4. Each day must contain:
    - Breakfast
    - Lunch
-   - Dinner
+   - Dinner 
 5. Do NOT repeat any recipe during the week.
 6. Choose recipes that together satisfy the daily nutritional needs of the target audience.
 7. Keep the daily calorie total within the recommended range for the target audience.
@@ -353,6 +357,7 @@ Instructions:
 14. Return ONLY valid JSON.
 15. Do not include markdown, explanations, notes, comments, or additional text.
 16. Every text value in the JSON must be written in ${loc}.
+
 
 Output JSON Schema:
 
