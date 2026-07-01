@@ -79,16 +79,8 @@ ${ingredientPrompt}
 
 Requirements:
  give recipes based on ${loc} cusine
-- Give Breakfast, Lunch and Dinner for each day
-- Healthy balanced meals
-- Mention approximate calories
-- Follow daily calorie and nutrition requirements
-- Use recipes from the document whenever possible
-if recipes not available in document create recipes
-give instructions in brief step by step 
-- Return ONLY valid JSON
-- Language must be ${loc}
-give instructions in above format
+
+ give instructions in above format
 **Instructions:**
 
 **1. Sauté the onions and garlic:**
@@ -114,6 +106,16 @@ in batches to a regular blender and blend until smooth.
    - Ladle the soup into bowls.
    - Garnish with your favorite toppings like toasted croutons, Parmesan cheese, or lemon wedges, if desired.
 
+
+- Give Breakfast, Lunch and Dinner for each day
+- Healthy balanced meals
+- Mention approximate calories
+- Follow daily calorie and nutrition requirements
+- Use recipes from the document whenever possible
+if recipes not available in document create recipes
+give instructions in brief step by step 
+- Return ONLY valid JSON
+- Language must be ${loc}
 
 
 
@@ -157,7 +159,7 @@ ${text}
 
 
     const result = await ollama.chat({
-      model: "gemma3:27b",
+      model: "gemma3:12b",
       messages: [
         {
           role: "user",
