@@ -303,7 +303,7 @@ router.get("/api/recipes", async (req, res) => {
     });
     
     const pdf = await parser.getText();
-const pdf1 =await parser1.getText();
+
     const text = pdf.text.substring(0, 3000);
 
     console.log("========== PDF TEXT ==========");
