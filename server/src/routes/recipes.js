@@ -28,7 +28,7 @@ router.get("/generaterecipe", async (req, res) => {
     const group = req.query.group || "all";
     const ingredient = req.query.ingredient || "";
 
-    const loc = "tamil";
+    const loc = "english";
 
     const targetAudience =
       group === "kids"
