@@ -43,7 +43,7 @@ router.get("/generaterecipe", async (req, res) => {
 
 
     // Read PDF
-    const pdfBuffer = fs.readFileSync("src/reci.pdf");
+    const pdfBuffer = fs.readFileSync("./reciipes.pdf");
 
     console.log("PDF Loaded");
 
@@ -295,20 +295,17 @@ router.get("/api/recipes", async (req, res) => {
 
     const pdfBuffer = fs.readFileSync("./reciipes.pdf,brief_note.pdf");
 
-const briefNoteBuffer = fs.readFileSync("./brief_note.pdf");
+
     console.log("PDF Loaded");
 
     const parser = new PDFParse({
       data: pdfBuffer
     });
-    const parser1 = new PDFParse({
-      data: briefNoteBuffer
-    });
-
+    
     const pdf = await parser.getText();
 const pdf1 =await parser1.getText();
     const text = pdf.text.substring(0, 3000);
-   const text1 =pdf1.text.substring(0, 3000);
+
     console.log("========== PDF TEXT ==========");
     console.log(text.substring(0, 500));
     console.log("========== END PDF ==========");
@@ -397,57 +394,7 @@ Output JSON Schema:
         "title": "",
         "category": "Dinner",
         "ingredients": [],
-        "instructions": "**Instructions:**
-
-**1. Sauté the onions and garlic:**
-   - Heat the olive oil in a large saucepan over medium heat.
-   - Add the chopped onion and cook until softened, about 5 minutes.
-   - Stir in the minced garlic and cook for another minute until fragrant.
-
-**2. Build the base of your soup:**
-   - Pour in the diced tomatoes and vegetable broth. Bring to a boil, then reduce heat and simmer for 10 minutes.
-
-**3. Add the spinach:**
-   - Stir in the chopped spinach leaves. Cook until wilted, about 2 minutes.
-
-**4. Season and add cream:**
-    - Season with oregano, red pepper flakes (optional), salt, and black pepper to taste.
-    - Slowly whisk in the heavy cream or half-and-half until well combined.
-
-**5. Blend for smoothness (Optional):**
-   - If desired, use an immersion blender to blend the soup for a smoother texture. Or you can transfer the soup
-in batches to a regular blender and blend until smooth.
-
-**6. Serve:**
-   - Ladle the soup into bowls.
-   - Garnish with your favorite toppings like toasted croutons, Parmesan cheese, or lemon wedges, if desired.
-",
-        "calories": 700,
-        "nutritionalInfo": {
-          "protein": "30 g",
-          "carbohydrates": "70 g",
-          "fat": "22 g",
-          "fiber": "9 g"
-        }
-      }
-    }
-  }
-]
-
-Validation Rules:
-
-- Output must be valid JSON.
-- No duplicate recipes.
-- Exactly 7 objects (one for each day).
-- Every meal must include all required fields.
-- Calories should be numeric.
-- Ingredients must be arrays of strings.
-- Instructions must be complete cooking steps in detail as step by step with more than 5 steps.
-- Nutritional values must be realistic.
-- Daily calories should approximately match the target audience's needs.
-- Prefer recipes from the document over generating new ones.
-give instrcitons as summary not less than 400 words
-Recipe Document:
+        "instructions": ""
 
 ${text}
 `;
