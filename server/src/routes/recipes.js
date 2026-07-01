@@ -157,7 +157,7 @@ ${text}
 
 
     const result = await ollama.chat({
-      model: "gemma3:27b",
+      model: "gemma3:12b",
       messages: [
         {
           role: "user",
