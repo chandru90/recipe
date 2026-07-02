@@ -43,7 +43,7 @@ router.get("/generaterecipe", async (req, res) => {
 
 
     // Read PDF
-    const pdfBuffer = fs.readFileSync("./reciipes.pdf");
+    const pdfBuffer = fs.readFileSync("./nutri.pdf");
 
     console.log("PDF Loaded");
 
