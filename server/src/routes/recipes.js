@@ -160,7 +160,7 @@ ${text}
 
 
     const result = await ollama.chat({
-      model: "gemma3:12b",
+      model: "gemma4:31b-cloud",
       messages: [
         {
           role: "user",
