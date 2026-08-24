@@ -167,6 +167,20 @@ const posts = [
     height: 400,
     category: "",
   },
+
+
+ {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7497506422503403520",
+    height: 400,
+    category: "",
+  },
+
+
+
+
+
+
+
 ];
 
 // ======================================================
