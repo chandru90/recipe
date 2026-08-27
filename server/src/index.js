@@ -65,47 +65,47 @@ const posts = [
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7478068117089415168",
     height: 400,
-    category: "Weight Loss",
+    category: "",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7424754580799913986",
     height: 400,
-    category: "Nutrition",
+    category: "",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7482287604068167680?collapsed=1",
     height: 400,
-    category: "Fitness",
+    category: "",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7481409929808056320",
     height: 400,
-    category: "Diabetes",
+    category: "",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7487373614569324544?collapsed=1",
     height: 400,
-    category: "Nutrition",
+    category: "",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7487732725940908032",
     height: 400,
-    category: "Heart Health",
+    category: "",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7485646387699953666",
     height: 400,
-    category: "Early Childhood Nutrition",
+    category: "",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7485858500804243457",
     height: 400,
-    category: "Early Childhood Nutrition",
+    category: "",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7490374662976090115",
     height: 400,
-    category: "Early Childhood Nutrition",
+    category: "",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7489361207561318400",
@@ -187,8 +187,32 @@ const posts = [
     height: 400,
     category: "",
   },
+   {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7498367778463260672",
+    height: 400,
+    category: "",
+  },
+  {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7495698425682972672",
+    height: 400,
+    category: "",
+  },
 
-
+ {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7479528579987419136",
+    height: 400,
+    category: "",
+  },
+   {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7496875944138211328",
+    height: 400,
+    category: "",
+  },
+   {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7496879248352161792",
+    height: 400,
+    category: "",
+  },
 
 ];
 
