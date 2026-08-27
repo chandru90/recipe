@@ -1,0 +1,5783 @@
+[
+  
+  {
+    "RecipeName": "Tandoori Potatoes Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Roasted Garlic Potato Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Kashmiri Style Bharit Marchavangun Recipe-Stuffed Chillies",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Thai Ice Tea Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Crispy Eggless Pinwheels Bread Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Smoked Tandoori Paneer Tikka Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Roasted Fennel and Tomato Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Healthy Aloo Roll Recipe (Baked Bread Potato Roll)",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Cheesy Vegetarian Pizza Muffins Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Corn Cheese Balls Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Indo Mexican Roasted Vegetable Taco Recipe With Creamy Mayo",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Guacamole Stuffed Quesadilla With Mint Mayo Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Kiwi Guava Spritzer Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Broccoli & Water Chestnut Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Arugula & Fig Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Bharwa Karela With Sweet Potato Filling Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Mexican Black Bean Corn Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Spicy Sichuan Cauliflower Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Watermelon, Chena, Cucumber With Soy Dressing Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Mushroom 65 Recipe (Indian Style Spicy Mushrooms with Chillies)",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Spicy Thai Pasta Recipe With Roasted Vegetables",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Chilli Paneer Quesadilla Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Boti Masala Chaat Recipe - Fryums Chaat  Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Mushroom Ghee Roast Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Veg Lebanese Mihshi Malfuf Recipe (Stuffed Cabbage Leaves)",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Thai Pumpkin Soup With Red Curry Paste Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Kiwi Basil Lemonade Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Soft and Crispy Cheese Stuffed Puff Sticks Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Chilli Baby Corn (Manchurian) Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Coleslaw Salad on Sliced Apple Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Mango, Avocado And Chickpea Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Chinese style Black Sesame Nai Huang Bao Recipe (Steamed Custard Buns)",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Beetroot, Sweet Potato And Oatmeal Cutlet Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Arugula Watermelon and Feta Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Zoodles Salad Recipe - Zucchini Noodles",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Insalata Caprese Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "French Onion Tart Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Millet Cottage Cheese Fritters Recipe-Flavored With  Za'atar,",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Sweet Potato & Green Bean Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Shikampuri Kebab Recipe - Kebabs made with Brown Chickpeas",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Lahsuni Paneer Recipe - Paneer Flavoured With Garlic",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Guacamole Soup Recipe - Spiced Avocado Soup",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Jalapeno Potato Cheese Balls Recipe With Four Pepper Cheese Dip",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Healthy Fresh Vegetable Salad Bowl with Sour Yogurt Dressing Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Farali Aaloo Pattice Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Arbi Ke Kebab Recipe (Spicy Colocasia Kebab) Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Waldorf Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Avarekalu Tikki Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Peas, Corn & Paneer Savory Hand Pies Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Aloo Gobhi Methi Tuk Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Tangy Tomato Pie Tart Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "मशरुम एंड ब्रोकली सूप रेसिपी - Mushroom and Broccoli Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Creamy Radish Soup Recipe With Sweet Potato",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Light And Healthy Spinach Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Chilled Sweet & Sour Cucumber Noodle Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Veg Tunday Kabab Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "एवकाडो मिंट सूप रेसिपी - Avocado Mint Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Crispy Potato Roses Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Mushroom filled Vol-au-Vent Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Shanghai Style Mantou Recipe - Pan Fried Momos",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "निम्बू पुदीना कढ़ी पत्ता शिकंजी रेसिपी - Lemon Pudina Curry Leaf Shikanji Recipe in Hindi",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Watermelon Bocconcini Arugula Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Herbed Potato Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "तरबूज़ और कॉर्न का सलाद रेसिपी - Watermelon And Corn Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Pea And Spring Onion Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Mexican Inspired Vegetarian Oven Roasted Stuffed Pepper Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "वेजिटेबल क्लियर सूप रेसिपी - Vegetable Clear Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Healthy Brown Rice Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Bhaji Miligai And Baby Potato Fry Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Classic Greek salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Classic Pavakkai Stir Fry Recipe (Bitter Gourd Fry)",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Vegetable Tortilla Pizza Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Instant Chilli Pickle Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Spinach Hummus Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Pinto Bean Salsa Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "आलू मटर पुदीना टिक्की रेसिपी - Aloo Matar Pudina Tikki Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Congress Buns Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Mint & Coriander Chilli Potato Salad Recipe - No Mayo Salad",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Avocado Mint Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Tomato Shorba Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Tomato Chickpea and Coconut Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Stuffed Capsicum With Sweet Potato Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Whole Wheat Stuffed Breadsticks Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Cheese Balls With Capsicum Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Maple Roasted Cinnamon Spiced Latte Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Tandoori Potato Wedges Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Green Apple, Radish & Pepper Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Lemongrass Tomato Corn Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Stuffed Mushrooms With Spinach & Parmesan Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Baked Lebanese Pumpkin Kibbi Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Pudina Buttermilk Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "निम्बू और धनिए का सूप रेसिपी - Lemon Coriander Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Paneer Cheese Puffs Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Halloumi Bruschetta Recipe with Tomato and Roasted Red Capsicum",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Dal Vada with Oats and Vegetable Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "आलू गोभी मेथी टूक - Aloo Gobi Methi Tuk (Recipe In Hindi)",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Creamy Kulfi Kebab Recipe With Tandoori Mayo Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Roasted Cauliflower, Celery And Carrot Creamy Vegetable Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Simple Steamed Indian Beet Salad Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Caramelized Onion Tart with Ricotta Cheese Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Lobia Kebabs Recipe (Black Eyed Bean Patties)",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Mexican Style Sopa De Frijol Recipe - Red Kidney Beans Soup",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Creamy Herb Roasted Potato Soup In a Bread Bowl Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Cheesy Bruschetta With Capsicum And Tomatoes Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Roasted Red Pepper and Pumpkin Soup Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Roasted Coriander Potatoes With Thyme Recipe",
+    "Course": "Appetizer"
+  },
+  {
+    "RecipeName": "Dairy Free Chocolate Pudding Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Strawberry Banana Sorbet Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Creamy Coconut Poached Pears Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Thai Style Fried Bananas Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Eggless Mango Cake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Vegan Chocolate Mocha Banana Cake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Dairyfree Balsamic Strawberry Ice-cream Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Eggless Date And Cashew Cake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Vegan Jackfruit Ice Cream Recipe With Coconut Milk",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Vegan Carrot Halwa Ice Cream Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Chinese Darsaan Recipe With Ice Cream",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Eggless Chocolate Cupcakes With Raspberry & Cheese Frosting",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Kerala Palada Pradhaman Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Mango Donut Cake Recipe With Chocolate Glaze",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Bengali Chirer Payesh / Poha Pudding Recipe With Nolen Gur",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Paal Kesari Recipe - South Indian Style Milk Kesari",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Gond Ke Ladoo Recipe - Edible Gum Ladoo",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Mukhadi Halwa Recipe (Semolina & All Purpose Flour Halwa)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Chirer Dudh Puli Recipe - Bengali Style Beaten Rice Dumpling Kheer",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Maharashtrian Style Semolina and Yogurt Cake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "North Indian Pheni Recipe - Seviyan Kheer",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Eggless Devil's Food Cake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Bengali Langcha Recipe With Mawa",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Kunafa With Mango Cottage Cheese Cream Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Royal Bread Gulab Jamun Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Kaju Badam Ladoo Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Whole Wheat Espresso Chocolate Streusel Cake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "बादाम हलवा रेसिपी - Badam Halwa (Recipe In Hindi)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Badam Halwa Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Tender Coconut Ice Cream Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Milk Powder Chena Burfi Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Coffee Chocolate Truffles Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Goan Style Sando Recipe (Steamed Rice Cakes Filled With Sweet Coconut)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Papaya and Carrot Halwa Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Thulli Recipe (Broken Wheat Halwa)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Chak-Hao Amubi Recipe (Black Rice Pudding)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Pista Burfi Recipe - Indian Spiced Pistachio Fudge",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Coconut Chocolate Balls Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Baked Muesli Tart with Strawberry Yogurt and Chia Seeds Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Banoffee Pie Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Dharwad Peda Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Paruppu Payasam Recipe - Stewed Dal Coconut Milk Payasam",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Mishti Doi Recipe - Traditional Bengali Sweet Yogurt",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Guilt Free Coconut Barfi Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Apple Tart with Puff Pastry Recipe (Open Pie)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Thandai Shrikhand Tart Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Lauki Burfi With Paneer Recipe - Bottle Gourd Fudge With Cottage Cheese",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Assamese Komolar Kheer Recipe (Orange Kheer)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Karnataka Style Gasagase Payasa Recipe- Poppy seed Payasam",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Malpua Recipe with Rabri (A Spiced Indian Pancake with Milk Pudding)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Andhra Style Paakundalu/ Pakam Undalu Recipe (Rice flour Coconut Fritters)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Healthy Fruit & Nut Watermelon Dessert Recipe With Greek Yogurt",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Mango Kalakand Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Goan Style Banana Halwa Recipe (Kelyacho Halwo)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Konkani Style Avnas Ambe Sasam Recipe-Fruit Salad with Coconut",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Indian Festive Sweet Rice And Jamun Bhog Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Eggless Fudgy Chocolate Chunk Brownie Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "KhiraSaku ( Odiya Style Rice Pan Cake) Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Maharashtrian Goda Masala Powder Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Thandai Kulfi Recipe - Holi Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Karantaka Style Seke Undlaka/ Undlige Recipe (Mini steamed sweet dumplings Recipe)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Homemade Easy Gulab Jamun Recipe - Delicious & Tasty",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Rava Ladoo Recipe | Sooji Laddu Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Fruit And Nut Lauki Brownies Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Atte Ka Halwa Recipe - Whole Wheat Flour Halwa with Khoya",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Stuffed Half Moon Shaped Kaju Burfi Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "पोहा लड्डू रेसिपी - Poha Ladoo With Chocolate And Coconut (Recipe In Hindi)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Quick and Easy Eggless Whole Wheat Chocolate Cupcake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Carrot Semolina Phirni Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Apple Burfi Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Sheer Khurma Recipe - Seviyan or Vermicelli Kheer Pudding",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Eggless Oats Cranberry Almond Cookies Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Sooji Manpasand Burfi Recipe - Semolina Coconut Fudge",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Eggless Beetroot Brownie Recipe Made With Amaranth Flour",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Baklava Recipe - Turkish Traditional Sweet",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Eggless Christmas Tree Chocolate Cookies Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Golpapdi Recipe | Gur Papdi | Sukhdi recipe | Gujarati Gol Papdi",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "फूलकारी पुलाव रेसिपी - Phulkari Pulao (Recipe In Hindi)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Caramel Apple Trifle Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "गाजर सूजी की फिरनी रेसिपी - Carrot Semolina Phirni (Recipe In Hindi)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Chocolate Cheese Gujiya Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Eggless Tutti Frutti Cake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Chironji And Makhane Ki Kheer Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Black Cherry Glazed Thandai Burfi Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Easy Gajar Halwa Recipe With Khoya Made In A Pressure Cooker",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Patishapta Recipe (Rice Crepe)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Buckwheat Apple Cinnamon Loaf Cake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Pasta Payasam Recipe - Fusion Payasam With Pasta",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Baked Modak and Karanji/Gujiya Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Thandai Flavoured Rice Kheer Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Double Ka Meetha Recipe With Mixed Nuts Rabri",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Andhra Style Pappulo Undrallu Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Munthiri Kothu Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "7 Cups Burfi Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "राजस्थानी हरे चने का हलवा रेसिपी - Rajasthani Hare Chane Ka Halwa (Recipe In Hindi)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Rajasthani Style Oliya Recipe (Sweetened Rice Yogurt Pudding Recipe)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Surti Obbattu Recipe - Fruit & Nut Pooris In Saffron Milk",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Cream Cheese Swirl Brownies Recipes",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Wheat Rava Halwa Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Kesar Shahi Tukda With Rabdi Recipe (Saffron Bread Pudding With Spiced Milk Custard)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Gujarati Adadiya Ladwa Recipe - Urad Dal Halwa with Nuts & Spices",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Badam Pottukadalai Ladoo Recipe - Almond Chana Dal Ladoo",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Kesar Peda Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Besan Oats Ladoo Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Ada Pradhaman Recipe With Homemade Ada- Kerala Special Payasam Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Pineapple and Dill Granita Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Kesar Shrikhand Recipe - Greek Yogurt Pudding With Saffron",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Chocolate Ganache Tart Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Eggless Whole wheat And Orange Almond Cake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Oven Roasted Peaches And Cream Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Toffee Banana Recipe (Classic Chinese Dessert)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Bottle Gourd Ice Cream Recipe - Lauki Ice Cream",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Ice Wine Panna Cotta Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Corn Halwa Recipe - Makki Ka Halwa",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Kalkandu (Kallusakkare) Pongal Recipe | Rice Pudding with Rock Candy",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Shakkarkandi ke Laddu | Sweet Potato Laddu Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Shakarkandi Ke Gulab Jamun Recipe (Sweet Potato Gulab Jamun)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Hayagreeva Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Delicious Arabic Sweet Kunafa Recipe (Knafeh)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Panjiri Ladoo Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Canadian Egg Free Butter Tart Recipe (Eggless)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "बूंदी की खीर रेसिपी - Boondi Ki Kheer Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Traditional Steamed Modak Recipe (Ukadiche Modak With Rice flour)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "No Bake Rice Mawa Cake Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Doodanche Fov Recipe (Goan Style Milk Beaten Rice/Poha In Milk)",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Grapes Muffin Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Aam Ki Kheer Recipe - Mango Coconut Payasam Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Enduri Pitha With Mango Twist Recipe",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Gujarati Style Lapsi Recipe - Millet Sweet Pudding",
+    "Course": "Dessert"
+  },
+  {
+    "RecipeName": "Vegan Kofta Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegan Baingan Makhani Recipe (Eggplant In Rich Coconut Gravy)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Zoodles Tossed In Cashew Cilantro Pesto Recipe (Vegan)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Tandoori Chickpea & Cauliflower Curry Recipe (Vegan Curry)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "वेगन कोफ्ता करी रेसिपी - Vegan Kofta Curry Recipe (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "चेट्टिनाड वेजिटेबल पुलाव रेसिपी - Chettinad Vegetable Pulao Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spicy Chilli Garlic Noodles Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "टोफू पुलाव रेसिपी - Tofu Pulao (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Zucchini Roll Up Lasagne Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Roasted Cauliflower Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "केरला स्टाइल कच्चा केला और सुरन कोटु करी रेसिपी - Kerala Style Plantain & Yam Thoran Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "गोभी मटर की भुर्जी रेसिपी - Cauliflower Matar Bhurji (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "One Pot Spicy Vegetable Pulao Recipe with Coconut Milk",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "साउथ इंडियन पापड करी रेसिपी - Appalam Vathal Kuzhambu (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Aloo Potol Posto Recipe (Aloo Parwal in Poppy Seed Masala Recipe)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Safed Achari Baingan Recipe - White Aubergine in pickled spices",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spaghetti Aglio Olio With Parmesan & Greens Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Mexican Vegetarian Burrito Bowl Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Dahi Bhindi Recipe - Okra in Yogurt Curry with Caramelized Onions",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Sweet & Spicy Stuffed Paneer In Kofta Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Broccoli Corn & Barley Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Bengali Aloo Potol er Dalna Recipe - A Traditional Vegetable Side Dish",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Paka Kela Ki Sabzi Recipe | Paka Kela nu Shaak | Gujarati Jain Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spaghetti Pasta Recipe In Roasted Pumpkin Sauce",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vendakka Stew Recipe (Kerala Style Okra Stew)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Paneer In Coconut Gravy Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Chunky Cucumber Salsa Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Tofu Bánh Mì Recipe - Vietnamese Grilled Tofu Sandwich",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "गाजर पुलाव रेसिपी - Carrot Rice (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Parsi Style Lagan Sara Istew Recipe - Rich Sweet Assorted Vegetable Curry",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Mixed Beans Vegetable Pulao Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Odiya Style Chana Dal With Potato & Pumpkin Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Sesame Noodles Recipe With Napa Cabbage",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "छोले शिमलामिर्च मसाला रेसिपी - Chole Capsicum Masala Recipe (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Shepuchi Bhaji Recipe (Stir Fried Maharashtrian Suva/Dill Greens)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Aamras Ki Kadhi Recipe - Mango Kadhi Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "टमाटर नूडल सूप रेसिपी - Tomato Noodle Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegetable Lo Mein Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Coriander Semiya Recipe - Vermicelli Pulao",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "गाजर धनिए का सूप रेसिपी - Carrot And Coriander Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "केरला स्टाइल वेदक्कै उप्पादन रेसिपी - Okra Curry Without Coconut (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Baked Pasta Recipe With Spinach And Artichoke",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Italian Style Broccoli And Cauliflower Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegetable Tagine Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Pretzel Salad Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Leek Mushroom & Lemon Risotto Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Mediterranean Orzo Pasta Salad With Feta Vinaigrette Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Kerala Style Vendakka Uppadan Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Odia Chatu Besara Recipe (Mushrooms in Spicy Mustard Curry)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Cheese And Olive Spaghetti Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "मशरुम करी - Mushroom Curry (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "मूली भुर्जी रेसिपी - Mooli Bhurji Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Penne Pasta In White Sauce Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "अचारी आलू रेसिपी - Potato Achari (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Quick Vegetable Noodles Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Creamy Mixed Vegetable Risotto Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "One Pot Spinach Macaroni Pasta Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Sri Lankan Pumpkin Curry Recipe - No Oil",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Noodle Sizzler With Garlic Pepper Sauce And Baked Vegetables Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Avarekaalu Usli (Broad Bean In Gravy) Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Zucchini Lasagna Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Garlic Naan Without Yeast Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spaghetti Pasta In Green Olive Pesto Sauce Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "केरला स्टाइल वेदक्कै पछड़ी रेसिपी - Kerala Style Vendakkai Pachadi (Recipe in Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegetarian Pot Pie Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Chilli Cheese Paratha Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Kongunadu Kathirikai Rasam Recipe - Spicy & Tangy Eggplant Rasam",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Ruote Pasta & Eggplant Gratin Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spicy Mexican Salsa Verde Recipe - Green Tomato Salsa",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Chole Capsicum Masala Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Punjabi Lobia Masala Recipe (Punjabi Style Black Eyed Beans Curry)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Garlic Crust Vegetable Pizza Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Kashmiri Phool Rogan Josh Recipe - Cauliflower in Red Curry",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Bengali Style Labra Recipe - Mix Vegetable Sabzi",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "15 Minutes Mexican Fried Rice Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Karwar Style Kairichi Udid Methi Recipe (Raw Mango Methi Curry)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Goan Sorak Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Cheesy Pasta Casserole With Broccoli And Cheese Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Garlic And Mushroom Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "आलू पालक सब्ज़ी रेसिपी - Aloo Palak Sabzi (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Egyptian Koshari Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Burnt Garlic Pasta with Mushroom Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Pineapple Carpaccio Recipe - Spiced Pineapple Salad with Ginger & Mint",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "दूध वाली गुजराती कढ़ी रेसिपी - Gujarati Kadhi With Milk And Mint Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spinach Cottage Cheese Cannelloni in Roasted Pepper Sauce Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Achari Aloo Sabzi Recipe - Potatoes In Spicy Pickle Masala",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spinach and Cottage Cheese Eggless Ravioli Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Paneer Kundan Kaliyan Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Garlic Spinach Balls Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "कश्मीरी फूल रोगन जोश रेसिपी - Kashmiri Phool Rogan Josh (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Allahabadi Tehri Recipe (UP Style Vegetable Rice)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Kale Chane Ki Kadhi Recipe - Black Chickpea Kadhi",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Cabbage Besan Fry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegetable Biryani Recipe With Chatpata Aloo",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Budhha's Delight Recipe (Thin Rice Noodles With Vegetables)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "खट्टा मीठा लौकी करी रेसिपी - Tangy and Sweet Bottle Gourd Curry (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "गोअन मशरुम विंडालू रेसिपी - Goan Style Mushroom Vindaloo (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Punjabi Kadhi Pakora Recipe - Delicious Punjabi Kadhi",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Malwani Pumpkin And Raw Mango Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "खट्टी कद्दू की सब्ज़ी रेसिपी - Tangy Tamarind Pumpkin Curry (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Kashmiri Style Chaman Recipe-Qaliya Cottage Cheese Curry",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Roasted Peppers And Mushroom Tortilla Pizza Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Red Chilli Pesto & Roasted Tomato Spaghetti Pasta Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Pasta In Tomato Onion Chutney Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Cold Pasta Salad With Potatoes And Green Peas Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spicy Coconut Peanut Stuffed Baby Brinjal Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "आलू पोतोल पोस्तो रेसिपी - Aloo Parwal In Poppy Seed Masala (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Bengali Posto Porota Recipe (Spiced Poppy Seed Parathas)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Hunase Saaru Recipe - Mysore Style Spicy Tamarind Rasam",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Roasted Pumpkin Spinach and Walnut Spaghetti Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Pita Saga Bati Basa Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Cauliflower Crust Pizza With Pesto, Sundried Tomatoes & Goat Cheese",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegetarian Laksa Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Homemade Summer Pasta Salad Recipe With Herbs",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Macaroni With Tahini Sauce Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Whole Wheat Methi Garlic Naan Recipe  | Oven Method with yeast",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegetable Pasta Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Kadai Mushroom Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Maize Daliya Khichri Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "मक्के और टमाटर का भरता रेसिपी - Tangy Corn Tamatar Bharta (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Creamy Thai Sweet Potato Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Chatpata Aloo Chaat Taco Recipe With Sour Cream & Salad",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spaghetti With Broccoli And Smoked Almonds Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spicy Matar Masala Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "कैबेज बेसन फ्राई रेसिपी - Cabbage Besan Fry (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "पालक ककड़ी सूप रेसिपी - Chilled Spinach And Cucumber Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Mooli Bhurji Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Bisi Bele Bath Recipe - A Spicy Mixed Vegetable Sambar Rice",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spinach Enchilada Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Crostini With Peppers & Cheese Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Beerakaya Tomato Koora Recipe (Andhra Style Ridge Gourd Curry)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "वेजिटेबल पास्ता सूप रेसिपी - Vegetable Pasta Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Penne Arrabbiata Pasta Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Amritsari Gobi Matar Recipe (Punjabi Style Creamy Cauliflower and Peas Curry)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Mexican Fiesta Soup With Roasted Tomatillo Pesto Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Maharashtrian Masale Baath Recipe - Spicy Vegetable Rice with Goda Masala",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Bell Pepper & Cheese Macaroni Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "गाजर और बीन्स का थोरन रेसिपी - Carrot and Beans Thoran (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Veg Chilli Milli Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Penne Pasta Recipe In Spinach Pesto Sauce",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Paneer Kulcha Recipe-Cottage Cheese Stuffed Leavened Flatbread",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "शकरकंदी की सब्ज़ी रेसिपी - Sweet Potato Sabzi (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Mushroom Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Homemade Roasted Bell Pepper Pasta Sauce Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "कढ़ी पकोड़ा रेसिपी - Kadhi Pakoras (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Eggless Peach Cobbler Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Chow Chow Milagu Kootu Recipe-Chayote Squash Cooked in Peppery Lentil Curry",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spaghetti Pasta Recipe in Basil Pesto Sauce",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Greek Style Gigantes Plaki Recipe-Oven Baked Broad Beans with Vegetables",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Aubergine in Spicy Peanut Sauce Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Bengali Chapor Ghonto Recipe-Moong Dal With Vegetables",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Thai Pineapple Vegetarian Fried Rice Recipe (No Onion No Garlic)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Chinna Vengaya Puli Kuzhambu Recipe (Spicy Tangy Baby Onion Curry)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "How To Make Homemade Almond Flour Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Sweet and Spicy Pineapple Paneer Tikka Tawa Pizza Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Tangy Tamarind Pumpkin Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Pasta Primavera With Fresh Basil Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Broccoli And Aloo Lifafa Paratha Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "केसर पिलाफ रेसिपी - Saffron Pilaf Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Baked Amritsari Kulcha Recipe (Without Yeast)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Baked Farfalle Pasta With Mushrooms Peas And Lemon White Sauce Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Beetroot Falafel With Pita Bread Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Cheesy Baked Spaghetti Pasta Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Semiya Biryani Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Penne Pasta Recipe In Roasted Carrot Sauce & Olives",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Roasted Vegetable Pasta Primavera Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Kerala Style Tomato Fry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Fettuccine Pasta Recipe With Roasted Red Bell Pepper Sauce",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "टमाटर मेथी पुलाव रेसिपी - Tomato Methi Rice (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Buttered Herbed Rice Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "दाल बुखारा रेसिपी - Dal Bukhara Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Chinese Savoury Rice Porridge Recipe With Pumpkin",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Italian Style Potato And Cucumber Salad Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "पालक बैंगन की सब्ज़ी रेसिपी - Palak Baingan Ki Sabzi (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "मालवानी कुरकुरी भिंडी रेसिपी - Malvani Kurkuri Bhindi Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spinach Lemon Spaghetti Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegetarian Chinese Sizzler With Noodles & Momos Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Crispy Amla Gawar Phali Sabzi Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Black Rice, Barley & Flax Seeds Congee Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vagharelo Bhaat Recipe - Gujarati Masala Rice",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "No Onion No Garlic Raw Tomato Sabzi Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "पका केला की सब्ज़ी रेसिपी - Paka Kela Ki Sabzi (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "गाजर मेथी पचड़ी रेसिपी - Carrot Methi Pachadi (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Five Spice Bean Burger Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Homemade Vegetable Stock Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "चमन कालिया रेसिपी - Chaman Qaliya (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Tomato Noodle Soup recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Farfalle Pasta Recipe In a Creamy Mushroom Sauce",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Stuffed Portobello Mushrooms Recipe With 7 Grain Rice And Sprout Salad",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Tofu Masala Rice Recipe (Tofu Pulao)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "इटैलियन स्टाइल टमाटर पालक सूप रेसिपी - Italian Style Spinach Tomato Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Methi Turai Ki Sabzi (Fenugreek Leaves And Ridge Gourd Stir Fry)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Chettinad Vegetable Pulao Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "बिना प्याज लहसुन के कच्चे टमाटर की सब्ज़ी रेसिपी - No Onion No Garlic Raw Tomato Sabzi (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vankaya Gasagasala Kura | Andhra Style Eggplant Poppy Seeds Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Kathiyawadi Shaak Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Thai Roasted Vegetables with Peanut Coconut Sauce Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Soya Pilaf/Pulav Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Mughalai Shahi Kaju Aloo Ki Sabzi Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Baked Penne Pasta With Roasted Peppers In Marinara Sauce Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegetable Tartlets Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Mujaddara Recipe (Traditional Middle Eastern Rice)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Khatti Meethi Palak Khichdi Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Whole Wheat Sun Dried Tomato Focaccia Bread | Healthy Homemade Bread Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegetable Sizzler Recipe With Potato Tikki, Mint Rice & Corn and Spinach Sauce",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Agathi Keerai Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Farfalle In Creamy Mushroom Sauce Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Desi Style Masala Pasta Recipe In Electric Pressure Cooker",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Non-Fried Vegetable & Oat Manchurian Balls Recipe In Sweet & Spicy Oat Sauce",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Hare Pyaaz Ki Puri Recipe - Spring Onion Puri",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Cheesy Baked Potato Gratin With Sweet Corn",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Bean Spinach And Corn Quesadilla Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Indian Style Beetroot Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Creamy Roasted Pumpkin Risotto Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Khatti Meethi Lauki Dal Recipe - Sweet & Spicy Bottle Gourd Dal",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Vegetarian Tofu Matzo Ball Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Sago Khichdi Recipe (Savory Tapioca Pearls Stir Fry)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "प्याज कुल्चा रेसिपी - Whole Wheat Onion Stuffed Kulcha Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Tri Color Rotini Spirali Pasta Recipe Tossed in Creamy Basil Sauce",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "No Cream Healthy Broccoli Pasta Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "सफ़ेद अचारी बैंगन रेसिपी - Safed Achari Baingan (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Strawberry Salad Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "हरे प्याज की पूरी रेसिपी - Hare Pyaaz Ki Puri Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "सुखी मेथी मलाई मटर रेसिपी - Dry Methi Malai Matar (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Khatua Recipe (Bhojpuri Style Khichdi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Cauliflower Thai Red Curry Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Veggie Chop Burger Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Barnyard Millet and Ragi Khichdi Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Chettinad Pattani Kurma Recipe (Chettinad Peas Curry)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Easy Tomato And Cheese Mini Pizza Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "टमाटर गाजर प्याज का सूप रेसिपी - Healthy Tomato Carrot Onion Soup Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "बंगाली स्टाइल छोलार दाल रेसिपी - Bengali Cholar Dal (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Spinach Corn Pasta Recipe In Creamy White Sauce",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "तीखा मटर मसाला रेसिपी - Spicy Matar Masala (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "केरला टमाटर फ्राई रेसिपी - Kerala Tomato Fry (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Summer Squash Pasta Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "शिमला मिर्च करी रेसिपी - Capsicum Curry (Recipe In Hindi)",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Asian Style Rice Noodle Salad Recipe With Vegetables Recipe",
+    "Course": "Dinner"
+  },
+  {
+    "RecipeName": "Homemade Baked Beans Recipe (Wholesome & Healthy)",
+    "Course": "High Protein Vegetarian"
+  },
+  {
+    "RecipeName": "Spirulina and Mint Basil Pesto Recipe",
+    "Course": "High Protein Vegetarian"
+  },
+  {
+    "RecipeName": "Homemade Spring Roll Wrapper Recipe",
+    "Course": "High Protein Vegetarian"
+  },
+  {
+    "RecipeName": "Ragi Or Finger Millet Powder/ Malt Recipe for Babies 6 Months & Above",
+    "Course": "High Protein Vegetarian"
+  },
+  {
+    "RecipeName": "Masala Sandwich Recipe With Rocket Leaves",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Rock Toast Recipe - Semolina Bread Toast",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Broken Wheat Upma Or Dalia Khichdi Recipe for Babies & Toddlers",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Indian Beaten Coffee Recipe | Dalgona Coffee",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Palak (Spinach) Puri Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Sooji Halwa Breakfast Bowl Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Chole Semiya Pulao Recipe - Chickpea Vermicelli Pulao",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Rava Kakdi Thalipeeth Recipe (Maharashtrian Style Semolina-Cucumber Flatbread)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Lemon Oats Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Khichdi Roti Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Maheri Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "पालक पनीर स्टफ्ड ओट्स चीला रेसिपी - Oats Cheela Recipe Stuffed With Creamy Palak Paneer in Hindi",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mangalorean Style Bella Metthe Dosa Recipe (Jaggery & Fenugreek Seed Pancakes Recipe)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Oats Cheela Recipe Stuffed With Creamy Palak Paneer",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Aloo Poha Recipe - Batata Poha",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Sweet Potato Flatbread Recipe - Sweet Potato Chapati",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Khichdi Roti रेसिपी - खिचड़ी रोटी (Recipe In Hindi)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "शेज़वान पोहा रेसिपी - Schezwan Poha (Recipe In Hindi)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Bottle Gourd & Mint Vegetable Juice Recipe - Lauki Juice",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Gujarati Style Adadiya Pak Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Maharashtrian Multigrain Thalipeeth Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "आलू पोहा रेसिपी- Aloo Poha Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Grated Beetroot Chilli Paratha Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "लेमन ओट्स रेसिपी - Lemon Oats (Recipe In Hindi)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Carrots & Sweet Potato Stuffed Paratha Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Makki Ki Puri Recipe (Maize Flour Fried Indian Bread)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Stuffed Corn and Capsicum Paratha Recipe with Herbs",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mixed Flour And Spring Onion Cheela Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Dadpe Pohe Recipe (Maharashtrian Poha)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "आलू पोहा रेसिपी - Savory Flattened Rice & Potato Breakfast (Recipe In Hindi)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Meetha Daliya With Milk & Fruits Recipe - Broken Wheat Porridge",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Semolina Vegetable Chilla Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "How To Make Homemade Kashmiri Masala/ Spice Mix Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Maharashtrian Vegetable Amboli Recipe (Savory Lentil Pancake Topped With Vegetables)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Rajgira Puri Recipe (Navratri Fasting/Vrat Recipe)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Bedmi Poori Recipe - Spiced Split Black Lentil Pooris",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Ajwain Puri Recipe - Puri Flavoured With Carom Seeds",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "अजवाइन पूरी रेसिपी - Ajwain Puri (Recipe In Hindi)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "पंजाबी स्टाइल एस्प्रेसो कॉफ़ी रेसिपी - Punjabi Style Espresso Coffee Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mooli Makki Roti Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kerala Style Chakka Adai Recipe-Rice Flour and Jackfruit Flatbread",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "भगारा पीठा रेसिपी - Baghara Pitha (Recipe In Hindi)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Doli Ki Roti Recipe | Classic Sourdough Bread Recipe from Multan",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Schezwan Poha Recipe (Fusion Recipe)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "मटर अजवाइन की पूरी रेसिपी - Matar Ajwain Ki Puri (Recipe In Hindi)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Masalewari Koki Recipe (Spiced Sindhi Roti)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Horsegram Idli Recipe - Kulith or Kollu Idli",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Uggani Recipe - Puffed Rice Upma",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Idli Tikka Recipe With Sambar",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kale And Vegetable Fried Quinoa Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Homemade Idli Dosa Batter Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Achari Masala Puri Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Beet and Avocado Chapati Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Ajwain Besan Ka Paratha Recipe (Masala Paratha)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "डोली की रोटी - Doli Ki Roti (Recipe In Hindi)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mixed Vegetable Handvo Recipe - Savory Rice & Lentil Cake",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "मक्की की पूरी रेसिपी - Makki Ki Puri Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Sabakki Upittu Recipe (South Indian Style Sabudana Khichdi)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Cottage Cheese And Peas Oatmeal Pancakes Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Maharashtrian Gopalkala Recipe (Curd Poha With Fruits)",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Cauliflower And Methi Paratha Recipe",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "South Indian Filter Coffee Recipe With Filter Coffee Powder",
+    "Course": "Indian Breakfast"
+  },
+  {
+    "RecipeName": "Vegan Navratan Korma Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Vegan Burger Recipe With Beans And Tofu Patty",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Stir Fried Tofu and Celery Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "वेगन नवरतन कोरमा रेसिपी - Vegan Navratan Korma (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Sri Lankan Chilli Potatoes Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Steamed Cauliflower Curry Recipe (Healthy Stir Fry)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Hare Tamatar Ki Sabzi Recipe - Raw Tomato Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Drumstick Leaves Fried Rice Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Paneer Carrot Stuffed Paratha Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Vegan Chickpeas And Broccoli Curry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "हरे टमाटर की सब्ज़ी रेसिपी - No Onion No Garlic Raw Tomato Curry (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "वेगन छोले और ब्रोकली करी रेसिपी - Vegan Chickpeas And Broccoli Curry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Udupi Style Ash Gourd Coconut Curry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Mexican Style Black Bean Burrito Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Andhra Style Ingavu Chaaru Recipe - Asafoetida Flavored Tamarind Rasam",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Saunf Aloo (Fennel Potato Curry) Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Mini Dal Samosa Curry/Sabzi Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kodava Mudi Chekke Barthad Recipe - Raw Jackfruit & Black Chickpea Stir Fry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Whole Wheat Crepe Recipe With Herbed Vegetables",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Makki and Methi Roti Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Cabbage and Carrot Sambharo Recipe - Gujarati Vegetable Stir Fry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Rajasthani Khooba Roti Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Chanar Dalna Recipe -Bengali Style Paneer & Potato Gravy",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Bengali Mooli Aloo Ki Sabzi  Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Dubuk Vade Recipe - Khandeshi Gram Flour Dumpling Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Matar Paneer Kachori Korma Recipe - Green Peas And Paneer Kachori Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Thengai Sadam Recipe (A Quick and Healthy Coconut Rice)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Karwar Style Ambade Udid Methi Recipe - Hog Plum Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Crunchy Ginger Capsicum Rice Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "White Pumpkin Mor Kuzhambu Recipe - Kerala Style White Pumpkin Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Appalam Vatha Kuzhambu Recipe - Papad In Tamarind Gravy",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kashmiri Style Modur Pulao With Pomegranate Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "शिमला मिर्च मसाला पोरियल रेसिपी - Capsicum Masala Poriyal (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Lauki Ka Salan Recipe - Bottle Gourd Salan Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Pasi Paruppu Kosumalli Recipe (Spiced Lentil Salad Recipe)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "व्रत वाले आलू पनीर रेसिपी - Potato Paneer Curry Without Onion And Garlic Recipe (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "कटाची आमटी रेसिपी - Katachi Amti (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Khara Obbattu Recipe (Bread Stuffed With Spicy Potato Mixture Recipe)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kashmiri Style Paneer Masala Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Aromatic Vegetable Pulao Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Moong Dal Khichdi Recipe For Babies And Toddlers Over 10 Months",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Dahi Wale Aloo Recipe (Indian Yogurt-based Potato Curry)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Vegetable Fried Brown Rice Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Potato Vindaloo Recipe (Spicy Goan Potato Curry)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Aloo Bhey Ki Sabzi Recipe (Potato Lotus Stem Curry)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Thai Yellow Coconut Curry Rice Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "पनीर भरमा भिन्डी रेसिपी - Stuffed Bhindi With Paneer (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Jodhpuri Aloo Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Stuffed Arbi Paratha Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Raw Jackfruit Burrito Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "हैदराबादी वेजिटेबल बिरयानी रेसिपी - Hyderabadi Vegetable Biryani Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Dhania Wale Aloo Recipe - Coriander Potato Dry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "राजस्थानी घसेला रेसिपी - Besan Ka Pitta (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Andhra Style Vendakaya Charu Recipe - Ladies Finger Rasam",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Till Wale Aloo Recipe - Sesame Potato Sabzi",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Spicy Baby Potatoes Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Andhra Style Palakura Pappu Recipe (Spinach Dal Recipe)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "हुनासे गोज्जु रेसिपी - Hunase Gojju Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Spirulina and Mint Basil Pesto Pasta Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kaigari Pirattal Recipe (Chettinad Style Mixed Vegetables)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Gawar Phali Masala Sabzi Recipe - Cluster Beans Gravy Sabzi",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Rajasthani Gatte Ki Sabzi Recipe With Onion & Garlic",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "One Pot Methi Mushroom Brown Rice Pulao Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Veg Mughlai Paratha Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Andhra Style Palakaru Vepadu Recipe - Spinach Stir Fry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kurkuri Bhindi With Spicy Tomato Yogurt Gravy Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Potato Stuffed Dal Dhokli Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "गोअन पोई रेसिपी - Goan Poee Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Potato Paneer Curry Without Onion And Garlic Recipe (Vrat Wale Aloo Paneer)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Khatta Meetha Petha Recipe (Yellow Pumpkin Sabzi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "तुलसी और पान के पत्तो का रसम रेसिपी - Tulsi And Betel Leaves Rasam Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Sweet Potato Dal Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Bihari Shakarkand Bhujiya Recipe - Spicy Sweet Potato Sabzi",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Homemade Spicy Ramen with Tofu Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Ambul Polos Curry - Sri Lankan Jack Fruit Curry Recipe With Pol Sambol",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Stuffed Gilka Recipe (Maharashtrian Style Stuffed Silk Squash)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Murungai Keerai Rasam Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "वेपमपू राइस रेसिपी - Dried Neem Flower Flavoured Rice (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Broccoli And Aloo Poriyal Recipe - South Indian Broccoli And Potato Stir Fry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Nendra Pazham Pulissery Recipe - Ayurvedic Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "फूलकोपीर पतुरी रेसिपी - Fulkopir Paturi Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Karnataka Special Huli Tovve Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Hyderabadi Chand Biscuits Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Pumpkin Peas Palya Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Poosanikai Rasavangi Recipe - Ash Gourd Curry With Dal",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Chettinad Vengaya Kosu Recipe (Spicy Curry from Chettinad Cuisine)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Navratan Korma Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Paneer Mushroom Stuffed Spinach Wrap Flavoured With Prunes",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Tarkari Ni Kari Recipe (Parsi Style Vegetable Curry)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Ginger Sesame Chicken With Bok Choy And Mushrooms Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Murungakkai Mor Kuzhambu Recipe-Drumstick Buttermilk Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Makhana ki Sabzi Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Szechuan Vegetarian Fried Rice",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Achari Gobi Shimla Mirch Ki Sabzi Recipe - Capsicum And Cauliflower Sabzi",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "केरला स्टाइल अरबी की सब्ज़ी रेसिपी - Kerala Style Arbi Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "गाजर और शिमला मिर्च पुलाव रेसिपी - Carrot And Capsicum Rice (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Senai Kizhangu Varuval Recipe - Spicy Chettinad Style Yam Stir Fry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "गवारफली की सुखी सब्ज़ी रेसिपी - Gavarfali Ki Sukhi Sabzi (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Broccoli Chilli Noodles With Grilled Salmon Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "पालक पुलाव रेसिपी - Palak Pulao (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Thalicha Thayir Sadam Recipe - Spicy Seasoned Curd Rice",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Marwadi Gatte Ki Kadhi Recipe - Gram Flour Dumpling In Yogurt Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Mushroom Caldine Recipe | Vegetarian Goan Mushroom Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Konkani Style Maskasangi Magge Koddel Recipe-Drumstick and Mangalore Cucumber Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Pavakka Theeyal Recipe - Spicy & Tangy Karela In Tamarind Gravy",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Khatti Meethi Tindora Sabzi Recipe - Gujarati Tindora Nu Shaak",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Lilve Ki Sabzi Recipe (Green Chickpea Curry)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Amaranth Leaves Khichdi Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "मसाला रोटी रेसिपी - Masala Roti (Recipe in Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Paneer Matar Keema Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Palak Onion Kadhi Pakora Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "नवरतन कोरमा (सूखा) रेसिपी - Dry Navratan Korma (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Turai Pyaz Hari Mirch Ki Sabzi Recipe-Ridge Gourd Stir Fry With Green Chili And Onions",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Konkani Style Vengaya Sagle Recipe - Eggplant Drumstick Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Keri Na Gotla Nu Shaak Recipe - Gujarati Style Ripe Mango Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Tomato Kurma Recipe - Thakkali Kurma For Biryani & Parotta",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Onion Thepla Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Cauliflower Thoran Recipe (Kerala Style Cauliflower)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Drumstick Leaves Sabzi With Crushed Peanuts Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Doddapatre Soppina Chitranna Recipe (Spiced Indian Thyme Rice)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Dal Dhokli Recipe With Sprouted Moong Dal",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Ragi Sankati Recipe - Andhra Style Ragi Mudda",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "अमरुद नी करी रेसिपी - Parsi Style Dry Guava Curry (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "जीरा हींग आलू रेसिपी - Jeera Hing Aloo (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Karnataka Style Orange Peels Curry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Dhaba Style Tawa Pulao Recipe - Masala Brown Rice Tawa Pulao",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kashmiri Monj Haakh Recipe - Knol Khol Flavored With Asafoetida",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "आलू भरमा दाल ढोकली रेसिपी - Potato Stuffed Dal Dhokli (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "मेथी की सब्ज़ी रेसिपी - Methi Leaves Curry (Recipe In Hindi )",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "आलू विंदालू रेसिपी - Potato Vindaloo (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "कोसामली रेसिपी - Chettinad Style Brinjal And Potato Mash Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Saragva Nu Shaak Recipe-Drumstick Masala Sabzi",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Bihari Aloo Bhujiya Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kohlrabi Recipe (Knol Khol Poriyal)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Mixed Millet Khichdi Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Chironji Ki Dal Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "केल्याची भाजी रेसिपी - Raw Banana Stir Fry (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Sarson Saag Pulao Recipe-Spinach Mustard Greens Pulao",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Milagu Rasam Recipe - Village Style Pepper Rasam",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Korean Style Kim chi Udon Stir Fry with Scallions Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "चेट्टिनाड वेंगया कोसु रेसिपी - Chettinad Vengaya Kosu Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Saoji Methi Pulao Recipe - Maharashtrian Style Fenugreek Leaves Pulao",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Parsi Style Sekta Ni Sing Recipe-Sweet & Spicy Drumsticks Cooked In Coconut Water/Toddy Recipe)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "पालक पुलाव रेसिपी - Palak Pulao Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "बीन्स करम रेसिपी - Beans Curry (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Mullangi Mor Pachadi Recipe (Radish in spicy tempered Yogurt Gravy Recipe)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Mangalorean Style Bafat Pito Recipe-Bafat/Bafad Spice Mix Powder",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Andhra Style Vegetarian Biryani with Soya Chunks Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Sweet & Spicy Ripe Mango Curry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Poondu Milagu Kuzhambu Recipe - Tamilnadu Style Garlic and Black Pepper Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Goan Style Brinjal Bharta Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "कश्मीरी स्टाइल नदरू रेसिपी - Kashmiri Style Nadru Yakhni Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "मशरुम थोरन रेसिपी - Mushroom Thoran Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kerala Style Taroo Root Curry Recipe (Colacasia)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "चटपटा आलू रेसिपी - Chatpata Baby Potato (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "वेपमपू करा कोलंब रेसिपी - Vepampoo Kara Kuzhambu Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Bell Pepper Sabji Recipe-No Onion No Garlic",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Omakka Curry Recipe - Kerala Style Papaya Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Chettinad Beans & Cauliflower Poriyal Recipe (South Indian Stir Fry)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Healthy Fulkopir Paturi Recipe (Bengali Style Cauliflower Dumplings)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Veppam Poo Rasam Recipe (Neem flower Rasam)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Odia Style Chuin Aloo Besara Recipe-Potato & Drumsticks Fry In Mustard Paste",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Tawa Mushroom Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Besan Aur Mirch Ki Sabzi Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kerala Special Mambazha Puliserry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kongunadu Style Vetrilai Sadam Recipe - Betel Leaves Rice",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "गोअन काजू करी रेसिपी - Goan Kaju Curry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "लाहोरी आलू रेसिपी - Lahori Aloo (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Thai Yellow Curry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Lemongrass Coconut Rice Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Cheese And Black Beans Quesadillas Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "गोअन चना रोस रेसिपी - Goan Chana Ros (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Bhindi With Cashews & Coconut Sabzi Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Arbi Ka Saag Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Butter Garlic Naan Recipe - Garlic Flavoured Flatbread",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Tamter Wangun Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Baingan Methi Ka Bharta Recipe with Pomegranates",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Mexican Style Vegetarian Chimichanga Recipe-Deep Fried Burrito",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Easy Potato Kurma Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Suva Methi Baingan Sabzi Recipe ( Eggplant in Dill and Methi leaves Curry Recipe)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "आलू अमृतसरी रेसिपी - Aloo Amritsari (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Karela Aur Baingan Ki Sabzi Recipe - Bitter Gourd Brinjal Sabzi",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Sobji Diye Bhaja Muger Dal Recipe - Bengali Style Moong Dal with Winter Vegetables",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Rajasthani Ghasela Recipe (Besan Ka Pitta)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "गोभी स्टू रेसिपी - Cauliflower Coconut Milk Stew (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "फूल गोभी की सब्ज़ी रेसिपी - Phool Gobi Sabzi (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Urulaikizhangu Podi Poriyal Recipe (Spicy Potato Sabzi from Tamil Nadu)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Sweet Potato And Broccoli Sabzi Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Pudina Quinoa Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "बंगाली स्टाइल शाक भाजा रेसिपी - Stir Fried Green Amaranth Leaves (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Konkani Style Sol Kadhi Recipe - Kokum Flavored Coconut Curry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "मूलांगी तौव्वे रेसिपी - Moolangi Tovve Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "बीटरूट पोरियल रेसिपी - Beetroot Poriyal (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Mushroom Methi Brown Rice Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Barnyard Millet Bisi Bele Bath Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Karnataka Style Avarekalu Huli Saru Recipe (Field Beans in a Coconut based Gravy Recipe)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "गोबी के कोफ्ते रेसिपी - Gobi Ke Kofte (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "मटर कीमा रेसिपी - Matar Keema (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kothavarangai Poriyal Recipe - South Indian Style Cluster Beans Sabzi",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kachcha Kela Masala Sabzi Recipe (Raw Banana with Tomatoes & Spices)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "गोअन मूलयाचो रोस रेसिपी - Goan Moolyacho Ross",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Coconut Chia Pudding Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Rajasthani Gatte Ka Pulao Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Carrot And Capsicum Rice Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Konkani Style Mooga Ghushi Recipe-Sprouted Whole Green Gram In Tangy Coconut Gravy",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Mambazha Pulissery Recipe - Mango Mor Kuzhambu Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Mangalorean Style Sonay Sukka Recipe - Dry Chickpea Stir Fry",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Delmonte Beetballs Pasta Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Karnataka Style Sorakkai Palya Recipe - Karnataka Style Bottle Gourd Sabzi",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Pepper Mushroom Stir Fry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Sweet Potato & Neem Leaves Vegetable Curry Recipe",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Kashmiri Style Chokh Vangun Recipe - Baingan Masala",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "पेशावरी काला चना रेसिपी - Peshawari Kala Chana (Recipe In Hindi)",
+    "Course": "Lunch"
+  },
+  {
+    "RecipeName": "Zucchini Zoodles with mushroom Meatball Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Zoodles In Tomato And Cashew Cream Sauce Recipe (Vegan)",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Greek Style Vegan Moussaka Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "टमाटर पुलियोगरे रेसिपी - Spicy Tomato Rice (Recipe In Hindi)",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Veg Chili Cheese Burgers Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Whole Wheat Pita Bread Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Singapore Style Chicken Layered Fried Rice Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "ड्रंकन नूडल्स रेसिपी - Drunken Noodles Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "पनीर बटर मसाला बिरयानी रेसिपी - Layered Paneer Butter Masala Biryani Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "बंगाली आलू दम रेसिपी - Bengali Aloo Dum Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Hyderabad Soy Biryani Recipe With Vegetables & Palak",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Aloo Matar Masala Khichdi Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Fansi Muthia Nu Shaak Recipe - Green Beans With Gram Flour Dumplings",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "केरला स्टाइल अप्पम रेसिपी - Kerala Style Appam Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Roasted Potatoes & Zucchini Bake Recipe In A Creamy Parsley Sauce",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "लौकी बड़ी की सब्ज़ी - Lauki Badi Ki Sabzi (Recipe In Hindi)",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Meethe Chawal Recipe - Zarda Pulao",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "चावल बनाने की विधि रेसिपी - Steamed Rice Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Chole Biryani Recipe - Spicy Chana Biryani  Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Herbed Butter Garlic Quinoa Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "नवाबी पनीर करी रेसिपी - Nawabi Paneer Curry Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "वेजीटेरियन हक्का नूडल्स रेसिपी - Vegetarian Hakka Noodles Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Maakhmi Dal Recipe-Sindhi Style Moong Dal",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Eggplant Steaks Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Nellor Kathirikai - Nellor Brinjal Fry Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "नूडल सूप रेसिपी - Noodle Soup Recipe with Vegetables",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Kadai Broccoli Masala Recipe - Broccoli Cooked With Indian Spices",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Kathiri Urulai Masala Kuzhambu Recipe - Brinjal And Potato Masala Gravy",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Corn And Peas Curry Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Chutney Podi Sadam Recipe - Rice Flavoured With Chutney Podi",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Broad Bean And Courgette Zucchini Pilaf Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "चीसी बेक्ड जीटी पास्ता रेसिपी - Cheesy Baked Ziti Pasta Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Greek Style Briami Recipe (Simple Vegetable Stew Recipe)",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Alfredo Spaghetti with Roasted Mushroom & Broccoli Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Marrakesh Vegetable Curry Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "South Indian One Pot Sambar Rice Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Thai Flavoured Vegetable Noodles In Coconut Curry Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Bhugi Dal Paratha Recipe - Moong Dal Paratha",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Herbed Vegetables In Roasted Bell Pepper Sauce Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Polenta Pizza With Vegetables Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Mint Coriander Spice Pulao Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Chettinad Kathirikai Chops Recipe - Brinjal Curry for Biryani",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "हरे प्याज और लहसुन ब्राउन चावल रेसिपी - Spring Onion & Roasted Garlic Brown Rice Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Lebanese Style Mujaddara Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Roasted Cauliflower Broccoli Au Gratin Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Burnt Garlic Mushroom Fried Rice Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "फुल्का रेसिपी - Phulka (Recipe In Hindi)",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "The Homemade Hard Taco Shells Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Lemon Rosemary Sauce Baked Penne Pasta Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Bengali Style Mixed Vegetable Sweet Pilaf Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Spinach Ricotta Balls in Garlic Tomato Basil Sauce Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Sindhi Style Besan Tikki Ki Sabzi Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Andhra Style Davva Aava koora Recipe (Sweet and Spicy Banana Stem Peanut Curry Recipe)",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Spiced Onion Pulao Recipe - Pyaz Pulao Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Spicy Tomato Rice - Tomato Pulihora Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Tadkewali Masoor Dal Khichdi Recipe With Garlic & Onions",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Orange Peel Kuzhambu Recipe - Orange Peel Tamarind Based Curry",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Spicy Schezwan Vegetable Noodles Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Chettinad Style Puliyogare Gojju Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Pumpkin Stew With Chickpeas Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "वाघरेला चावल रेसिपी - Vagharela Chawal Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Bengali Style Khichuri Aar Labra Recipe-Khichdi And Mixed Vegetables",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Malai Kofta Curry Recipe - Creamy and Healthy Paneer Aloo Kofta Curry",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Achari Masala Powder Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Cheese Garlic Naan Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Kashmiri Paneer Gravy Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Sichuan Dan-Dan Noodles Recipe (Sesame Noodles With Crispy Tofu Recipe)",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Peas Pulao Recipe -  North Indian Matar Pulao",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "सूखे मेथी छोले रेसिपी - Sukhe Methi Chole Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Walnut Mushroom Veg Bolognese Recipe With A Twist",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "पूरी रेसिपी - Puri Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Pasta In Spinach Basil Sauce Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Stuffed Masala Aloo Naan Recipe Made Without Oven",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "कश्मीरी पनीर ग्रेवी रेसिपी - Kashmiri Paneer Gravy Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Paalkatti Chettinad Curry Recipe -Chettinad Style Paneer Kurma Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Mushroom and beet wellington With Red Vinaigrette Sauce Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Parsi Rotli Recipe - Parsi Style Rotis",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Fennel Turmeric Walnut Soup With Apple And Raw Mango Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Fujian Style Hot Dry Noodle Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Narangi Pulao Recipe  - Orange Flavoured Rice",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Open Burger with Vegetable Patty Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Goan Style Mushroom Shagoti Recipe",
+    "Course": "Main Course"
+  },
+  {
+    "RecipeName": "Tofu Bhurji Recipe - Spicy Scrambled Tofu",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Palak Makki Ki Roti Recipe - Spicy Spinach Cornmeal Flatbread Recipe)",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "टोफू भुर्जी रेसिपी - Tofu Bhurji Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "बेसन भुर्जी रेसिपी - Besan Burji (Recipe In Hindi)",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Besan Burji Recipe-Chickpea Flour Scramble Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kesar Chai Recipe - A Delicious Saffron Flavored Indian Tea",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Nutty Aloo Paratha Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Beetroot Loni Sponge Dosa Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "मटर बेसन और पनीर चीला रेसिपी - Matar Besan And Paneer Cheela Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Stuffed Mooli Paneer Paratha Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Gulkand Chai Recipe - A Delicious Rose Flavored Indian Tea",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Spinach Thalipeeth Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Green Chutney Rava Dhokla Recipe - Sooji Dhokla",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Ukadpendi Recipe - Maharashtrian Style Spiced Rice Flour Porridge",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Aloo Masala Puri Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Dahi Sabudana Recipe (Savory Tapioca Pearls Seasoned with Yogurt)",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Carrot Matar Paratha Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Egg Stuffed Paratha Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Besan Methi Paratha Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Tomato Poha With Peas Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Bengali Chirer Pulao Recipe - Bengali Style Vegetable Poha",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Khaman Dhokla Poha Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Radhaballabhi Recipe (Bengali Stuffed Poori With Spiced Urad Dal)",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Indori Poha Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Maharashtrian Tandulachi Ukad Recipe - Rice Flour And Buttermilk Porridge",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Besan Bread Toast Recipe On Tawa - Vegetarian French Toast",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Stuffed Yellow Moong Dal And Onion Paratha Recipe",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "Pudina Sooji & Oats Dhokla Recipe - Steamed Semolina Cake With Oats & Mint Leaves",
+    "Course": "North Indian Breakfast"
+  },
+  {
+    "RecipeName": "15 minute Cauliflower Fried Rice Recipe",
+    "Course": "One Pot Dish"
+  },
+  {
+    "RecipeName": "Shanghai Style Chap Nian Gao Recipes (Stir Fried Rice Cakes Recipes)",
+    "Course": "One Pot Dish"
+  },
+  {
+    "RecipeName": "Kerala Style Chakka Pal Kozhukattai Recipe-Rice Dumpling In Jackfruit flavored Coconut Milk",
+    "Course": "One Pot Dish"
+  },
+  {
+    "RecipeName": "Matar Ki Tehri Recipe - Fragrant rice cooked with spices and fresh peas",
+    "Course": "One Pot Dish"
+  },
+  {
+    "RecipeName": "Kongunadu Special Pattani Biryani Recipe (Green Peas Biryani From Kongunadu)",
+    "Course": "One Pot Dish"
+  },
+  {
+    "RecipeName": "Mushroom Biryani Recipe",
+    "Course": "One Pot Dish"
+  },
+  {
+    "RecipeName": "Greek Style Green Beans Stir Fry Recipe",
+    "Course": "One Pot Dish"
+  },
+  {
+    "RecipeName": "Khichdi With Fresh Spices Recipe",
+    "Course": "One Pot Dish"
+  },
+  {
+    "RecipeName": "Red Bean Mexican Burrito Bowl Recipe - Roz Ka Khana With Figaro Olive Oil",
+    "Course": "One Pot Dish"
+  },
+  {
+    "RecipeName": "आमरस रेसिपी - Aamras Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "शिमला मिर्च की चटनी रेसिपी - Capsicum Chutney (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "अदरक की चटनी रेसिपी - Ginger Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Allam Pachadi | Ginger Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "गोभी के पत्तो की चटनी रेसिपी - Cauliflower Leaves Chutney (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "साउथ इंडियन प्याज चटनी रेसिपी - South Indian Onion Chutney (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "लौकी रायता रेसिपी - Grated Bottle Gourd Yogurt Salad (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "लहसुन आमला चटनी रेसिपी - Lehsun Amla Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "South Indian Style Murungakkai Poriyal Recipe - Drumstick Stir Fry",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Tindora Sambharo Recipe - Instant Tendli Pickle",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Palakottai Kuzhambu Recipe-Kongunad Style Jackfruit Seeds Curry",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "बैंगन भरता रेसिपी - Baingan Bharta (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "पछा मांगा पचड़ी रेसिपी - Tamil Nadu Raw Mango Pachadi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Andhra Style Tamati Pachadi Recipe (Tomato Chutney)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "हर्ब ब्राउन राइस रेसिपी - Herbed Brown Rice Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Peerkangai Thogayal Recipe (Ridge Gourd Peel Chutney)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Tomato Relish Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Radish Soup Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Makhan Recipe (Homemade Butter)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "सेनाइ पचड़ी रेसिपी - Elephant Yam Raita (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Tulsi Kashayam Recipe (Kaada) - Herbal Drink From Tulsi",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "मसालेवाली तुरई की सब्ज़ी रेसिपी - Masalewali Turai Sabzi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "White Vegetable Kurma Recipe With Coconut & Cashew",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Bengaluru Style Brinjal Gravy Recipe - For Biryani",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Sukhi Suran Masala Sabzi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Dry Sweet Potato Thoran Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "धुगारे बैंगन रेसिपी - Dhungare Baingan Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "राजस्थानी कचरी की चटनी रेसिपी - Rajasthani Kachri Ki Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "तड़का रायता रेसिपी - Spiced Curd With Onions (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "मस्टर्ड वेजिटेबल करी रेसिपी - Mustard Vegetable Curry (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "फ्रूट पचड़ी रेसिपी - Fruit Pachadi (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Kalyana Veetu Senai Curry Recipe - South Indian Spicy Roasted Yam",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Raw Mango Murabba Recipe - Cinnamon Spiced Mango Jam",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Kasuri Methi Aur Aloo Rasedar Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Nellikai Oorugai/Amla Sambhariyo Recipe (Instant Gooseberry Pickle Recipe)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "टमाटर और कढ़ी पत्ते की चटनी रेसिपी - Tomato Curry Leaf Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Rajasthani Gunde Ki Sabzi Recipe (Bird Lime Stir Fry)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Tomato Curry Leaf Chutney With No Onion No Garlic Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "भरवा प्याज की सब्ज़ी रेसिपी - Bharwa Pyaz Ki Sabzi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Himachali Dry Raw Mango Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Chettinad Pakora Curry Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "केला अनार रायता रेसिपी - Kela Anar Raita (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Sweet & Spicy Vegetable Hong Kong Style Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Carrot Orange Walnut Raita (Fruity Nutty Yogurt) Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Pui Shaager Chorchori Recipe - Mixed Vegetable Curry With Malabar Spinach",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Sichuan Style Zhong Shui Jiao Recipe (Caramelized Onion, Cabbage And Peas Dumplings in Red Oil Recipe)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Til Moongphali Aur Kundru Sabzi Recipe - Sesame, Peanuts And Ivy Gourd Stir Fry",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Lacha Pyaz Recipe - Masala Pickled Onions",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "हरी मूंग दाल सुंदल रेसिपी - Green Moong Dal Sundal Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Spinach And Tortellini Soup Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Cold Potato Salad With Cilantro Dressing Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Carrot Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Kerala Style Pacha Mango Avial Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Desiccated Coconut Coriander Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Himachal Style Khatta Jimikand Recipe - Spicy Tangy Yam",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Chana Dal Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "धनिये और नारियल की चटनी रेसिपी - Green Coriander And Coconut Chutney (Recipe (In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Matar Aur Chilke Ka Sabzi (Peas & Peel Stir Fry Recipe)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Chawli Ki Phali & Aloo Sabzi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Karpooravalli Chutney Recipe (Tamil Nadu Chutney With Big Thyme)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Indo Chinese Hot and Sour Spinach Soup Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Green Chana Chutney (Green Chickpea Chutney) Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Pacha Manga Pachadi Recipe - Raw Mango Pachadi",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Bengali Potol Bhaja Recipe-Bengali Style Parwal Sabzi",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Carrot Tadka Raita Recipe- Crunchy Grated Carrot In Yogurt",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Bhindi & Capsicum Sabzi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "मैसुर चटनी रेसिपी - Mysore Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Raw Tomato Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Raw Banana Raita Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Tzatziki Recipe - A Greek Yogurt Dip",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Odisha Style Aloo Bharta Recipe -Aloo Mash Sabzi",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Karwar Style Bibya Usal Recipe (Spiced Cashew Nut Sabzi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "पुलि इंजी रेसिपी - Tamarind Ginger Chutney",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Padipe Saasmi Recipe - Udupi Style Amaranth Leaves Curry With Coconut & Tamarind",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Mixed Millet Phulka Recipe - Ragi Jowar Bajra Wheat Phulka",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "साउथ इंडियन नारियल की चटनी रेसिपी - South Indian Coconut Chutney (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Shandong Spicy Eggplant With Peppers And Potato Recipe (Di San Xian Recipe)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "टमाटर प्याज और ककड़ी का रायता रेसिपी - Tomato Onion Cucumber Raita (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Kothamalli Thovayal Recipe (Dry Coriander Leaves Chutney)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "मदुराई टमाटर की चटनी रेसिपी - Madurai Spicy Tomato Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Baby Corn Carrot Sabzi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Mini Chilli Cheese Aloo Kulcha Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "कोल्लु थोगयल - Horsegram Chutney (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Bhindi Masala Gravy Recipe - Ladies Finger In Tomato Onion Gravy",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Goan Style French Beans Foogath Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Knol Khol Gravy Recipe - Kohlrabi In A Yogurt Based Gravy",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Malabar Style Dates Pickle Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Bhindi Raita Recipe (Okra Salad)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "आम की लौंजी रेसिपी - Aam Ki Launji Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "परुप्पु थोगयल रेसिपी - Paruppu Thogayal Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Spicy Kiwi Salsa Recipe with Feta Cheese",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Mamidikaya Pesara Pappu Pachadi Recipe - Raw Mango & Dal Chutney",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "करूवेपिल्लई पचड़ी रेसिपी - Karuvepillai Pachadi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Khatti Arbi Ki Sabzi Recipe - Colocasia In Yoghurt Curry",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Carrot Peanut Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Karwar Style Varan Kadhi Recipe - Toor Dal in Coconut Milk Curry",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "गाजर नारियल पचड़ी रेसिपी - Carrot Pachadi With Coconut Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "बिरयानी चम्मंथी रेसिपी - Biryani Chammanthi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Punjabi Style Boondi Kadhi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Pineapple Rasam Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Pudina Pyaz Kachumber Salad Recipe - Mint & Onion Salad",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "कर्नाटक स्टाइल रंजका रेसिपी - Karnataka Style Ranjaka Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "बैंगलोर रेस्टोरेंट स्टाइल सांबर रेसिपी - Bangalore Restaurant Style Sambar Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Pavakka Pachadi Recipe - Bitter Gourd Pachadi",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Strawberry Raita Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Stuffed Mango Pickle Recipe - Gujarati Dabla Keri Nu Athanu",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Biryani Chammanthi Recipe (Green Chutney Recipe)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Sweet and Spicy Tomato Chutney Recipe With Garlic",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Konkani Style Solkadhi Recipe - Kokum Drink",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Watermelon Cucumber Gazpacho Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Tawa Amritsari Kulcha Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Sweet & Spicy Totapuri Mango Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Healthy Vegetable Fries Recipe (Oven roasted Potato, Zucchini and Carrot Fries)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Punjabi Mooli Ki Bhurji Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "मूली रायता रेसिपी - Mooli Raita Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Spinach, Apple and Walnut Salad Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Avocado Parsley Pasta Salad Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Tamatar Pyaz Ki Sabzi Recipe -Tomato Onion Sabzi",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Zucchini And Bell Pepper Stir Fry Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "हल्दी की सब्ज़ी रेसिपी - Haldi Ki Sabzi Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "कच्चे आम और ककड़ी का सलाद रेसिपी - Raw Mango Cucumber Salad Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Begun Basanti Recipe - Eggplant In Mustard Yogurt Curry",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Kokum Saar Recipe - Traditional Maharashtrian Kokum Drink",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "टमाटर प्याज की चटनी रेसिपी - Tomato Onion Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "South Indian Onion Chutney Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "The Paruppu Podi Recipe - South Indian Spiced Dal Chutney Powder",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "पनीर कोफ्ता करी रेसिपी - Paneer Kofta Curry Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "कच्चे टमाटर की चटनी रेसिपी - Raw Tomato Chutney (Recipe In Hindi)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Grilled Vegetable and Oat Salad Recipe with Feta Cheese",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Rumali Roti Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Vendakkai-Vazhakkai Mor Kuzhambu Recipe (Tamil Nadu Style Lady's Finger & Raw Banana Curry)",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Roasted Walnut Zucchini Carrot Salad in Red Wine Vinaigrette Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Instant Gor Kairi Lonche Recipe - Sweet Raw Mango Pickle",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "थोउठे कोडल रेसिपी - Thouthe Kodel Recipe",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Karatyacho Fodi Recipe - Pan Fried Bitter Gourd",
+    "Course": "Side Dish"
+  },
+  {
+    "RecipeName": "Delhi Style Fruit Chaat Recipe -Homemade Kulle Chaat Of North India",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Vegan Chocolate Fudgesicles Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chocolate Coconut Pistachio Bites Recipe (Paleo & Vegan)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Eggless Carrot Muffins Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Vegan Gluten Free Banana Bread Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "बनाना ऑरेंज और पालक स्मूथी रेसिपी - Banana Orange & Spinach Smoothie Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Spicy Crunchy Masala Idli Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Kesar Mango Lassi Recipe - Saffron Mango Lassi Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "चेटिनाड मीठा पनियारम रेसिपी - Chettinad Sweet Paniyaram Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Matar Samosa Recipe -Green Pea Samosa",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "दलिया पकोरा रेसिपी - Dalia Pakora Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Paneer Tikka Kathi Roll Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Ulundu Kozhukattai Recipe - Uppu Kozhukattai/ Urad Dal Modak",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Cheese Stuffed Aloo Bonda Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Lemon Frozen Yogurt Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Oreo Milkshake Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Mexican Grilled Corn Flavoured With Cheesy Garlic Mayo Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Wheat Grass Shikanji - Wheat Grass Lemonade Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Crispy Chicken Pakoda Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Moon Biscuits Recipe (Moon Shaped Baked Cookies)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Classic Grilled Tomato Cucumber Chutney Sandwich Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Karela Dahi Puri Recipe - A Chatpata Chaat Made From Bitter Gourd",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Assamese Sweet Kordoi Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chocolate Chip & Raisin Rolls Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Baked Oats and Whole Wheat Kachori Stuffed with Peas Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Basella Fritters Recipe - Malabar Spinach Fritters",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Fig Honey & Paprika Preserve Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Barley Whole Wheat Coffee Marble Cake Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Qahwa | Arabic Coffee Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Leftover Roti Cutlet Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Sprouted Moong And Onion Fritters Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Corn Matar Kachori Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Andhra Style Saggubiyyam Punugulu Recipe (Crispy Tapioca Snack)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Tamil Nadu Style Vellai Paniyaram Recipe - Semi Sweet Rice & Dal Fritters",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Party Sev Puri Recipe Filled With Potato & Pomegranate Mint Mayo",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Rava Chakli Recipe - Karnataka Style With Rava & Rice Flour",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Til Chikki Recipe - Healthy Sesame Bars",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chocolate Glazed Coconut Macaroons Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Tofu and Chickpea Patty Recipe (Cutlets)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Matcha Cookies Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Corn Salad With Radishes, Jalapeño And Lime In Mint Mayo Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Beetroot Millet Paniyaram Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Tandoori Aloo Gobi Kathi Roll Recipe - Spicy Aloo Gobi Frankie",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Spiced Whole Wheat Carrot Cake Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Whole Wheat Flour Murukku Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "मुल्लू मुरुक्कू रेसिपी - Mullu Murukku Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Homemade Vada Pav Recipe With Spinach Corn Tikki",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Gur Paare Recipe (A traditional Punjabi Wedding Sweet)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Hari Matar Ke Pakode Recipe - Green Pea Fritters",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Whole Wheat Eggless Cinnamon & Raisin Swirl Bread Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Methi Muthiya (Wheat Flour And Fenugreek Dumplings) Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Grilled Paneer Pineapple Sandwich Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "ओट्स और वेजिटेबल कबाब रेसिपी - Oats and Vegetable Kebab Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Cabbage Onion Vada Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Date, Nuts And Quinoa Energy Bite Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Idli Manchurian Recipe With Oriental Twist",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chatpati Sattu Ki Kachori Recipe - Kachori Stuffed With Sattu And Pickle",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Black Eyed Peas Masala Vadas Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Bengali Style Kucho Nimki Recipe (Diamond Shaped Salty Snacks)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "क्रिस्पी पालक पकोरा रेसिपी - Crispy Palak Pakora Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Whole Wheat Flour Chakli Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Karachi Biscuits Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "मालवानी मसाला पाउडर रेसिपी - Malvani Masala Powder Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Bengali Beetroot And Raw Banana Chop Recipe (Spiced Cutlet Recipe)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Kerala Pazham Pori Recipe - Banana Fritters Recipe | Nedra Pazham Fry",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chettinad Style Chilli Gobhi Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Baked Cauliflower Samosa Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Bhojpuri Style Bharbhara Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Fennel Potato Croquettes With Paneer Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Corn Bhel Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Instant Baked Aloo Tikki Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Corn and Spinach Whole Wheat Calzone Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Vrat Ki Kachori Recipe (Savory Buckwheat Paneer Pastry)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Kerala Style Sugiyan Recipe (Sweet Moong Dal Bondas)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Makki Ki Baked Mathri Recipe (Baked Cornmeal Flaky Biscuit)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "पालक पकोरा रेसिपी - Palak Pakora Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Tamatar Chaat Banarasi Style Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Parmesan Cheese Biscuits Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Coconut Thumbprint Cookies With Pineapple And Apricot Preserve Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Nei Appam / Unniyappam Recipe - Coconut Banana Fritters",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Maharashtrian Batatyacha Kees Recipe (Pan Fried Spiced Potatoes with Peanuts)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Crispy Bakwan Sayur Recipe (No Onion No Garlic Vegetable Fritter)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Swedish Saffron Buns Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "चिबा ढोकली रेसिपी - Chiba Dhokli Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Spicy Mixed Vegetable Lollipop Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Mirchi Bajji Recipe - Mirapakaya Bajji/Green Chilli Fritters",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Whole Wheat Zucchini Cake Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Fruit Sandwich Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Foxtail Millet Uppu Kozhukattai Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Grilled Tomato And Cheese Sandwich Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Baked Paneer Corn Kebab Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Apple Roses Recipe With Homemade Puff Pastry Sheets (Eggless)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Mirchi Pakodi Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Assamese Style Ghila Pitha Recipe (Sweetened Rice Fritters Recipe)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Dry Fruits Spongy Cake Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "लेमन कोकोनट चिआ एनर्जी बॉल्स रेसिपी - Lemon Coconut Chia Energy Balls Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "भेल पूरी रेसिपी - Bhel Puri Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "बनारसी स्टाइल टमाटर चाट रेसिपी - Tamatar Chaat Banarasi Style (Recipe In Hindi)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "पैन फ्राइड प्याज पकोरा रेसिपी - Pan Fried Onion Pakora Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Sesame Bread Patties Recipe (Bread Cutlets)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Dahi Batata Puri Chaat Recipe - Classic Indian Tea Time Snack",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Nutty Oats and Berry Truffle Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Baked Masala Namak Para Recipe - Carom Seeds Spiced Biscuits",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Shakkarpara Recipe (Shankarpali)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "बिहारी हरे मटर का भरभरा रेसिपी - Bihari Green Peas Bharbhara (Recipe In Hindi)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "काम्बू मूरूकू रेसिपी - Kambu Murukku (Recipe In Hindi)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Coconut Ladoo Stuffed With Pistachios Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Oven Baked Sweet Potato Fries Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Andhra Style Mirapakaya Bajji Recipe - Stuffed Chilli Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Savoury Baked Arbi Chips Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Onion Bajji Recipe -Vengaya Bajji/ South Indian Onion Pakora",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chia Seeds Shikanji Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Matki Chi Usal Recipe - Spicy Moth Sprouted Salad",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Sindhi Kuneh Ja Bhee Recipe (Lotus Stem Chaat)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Sweet Potato & Peas Cutlet Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Instant Khaman Dhokla Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Homemade Nachos Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Sabudana Sandige Recipe - Sabudana Vadam Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Pepper Murukku Recipe - South Indian Style Chakli",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Orange Mocktail Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Kashmiri Chhir Chot Recipe- Rice Pancakes",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Palak Bhajia Recipe - Spinach Pakoras",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chinese Bhel Recipe - No Onion No Garlic",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Mixed Vegetable Samosa Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "मिर्ची पकौड़ी रेसिपी - Mirchi Pakodi (Recipe In Hindi)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Mumbai Style Pani Puri Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Rajma Wrap Recipe With Carrot Cucumber Sandwich Spread",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Arbi Ke Meethe Chande Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Spicy Whole Wheat Roti Taco Bowls Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Iyengar Style Masala Toast Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Churros Recipe With Cinnamon & Sugar | Eggless Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Buttered Potato Cubes Recipe - Finger Food For Babies Above 9 Months",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Aloo Chaat Recipe With Baked Beans - Roz Ka Khana With Figaro Olive Oil",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Crispy Crunchy Roti Ke Papad Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Cheesy Potato Peas Potli Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "चेट्टिनाड स्टाइल चिल्ली गोभी रेसिपी - Chettinad Style Chilli Gobhi Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Muesli Banana Fritters Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Bread, Paneer & Potato Instant Vada Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Carrot Beet Amaranth Super Salad Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Achari Paratha Roll Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Steamed Sweet Corn Recipe Flavored with Chaat Masala Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Eggless Wholewheat And Custard Powder Coconut Cookies Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Oats And Date Cookie Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "अनार आलू पकोरा रेसिपी - Anar & Aloo Pakora Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "आलू बोंदा रेसिपी - Potato Bonda Recipe Flavoured With Sambar Powder in Hindi",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Potato Bonda Recipe Flavoured With Sambar Powder",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Gujarati Style Multigrain Masala Kadak Puri Recipe - Masala Mathri",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chocolate Honeycomb Bun Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Pomegranate And Chia Seeds Yogurt Smoothie Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chinese Bhel Recipe - Crispy Noodle Salad",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Eggless Banana Pressure Cooker Cake Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Lemon Coconut Chia Energy Balls Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Raw Banana Cutlet Recipe - No Onion No Garlic Jain Cutlet",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Rose Buns With Stuffed Mushroom Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Veggie Pearl Millet Tart Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Delicious Spicy Chyawanprash Cookies Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Corn And Bell Pepper Sandwich Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Mullu Murukku Recipe - Chakli Recipe - South Indian Snack",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Baked Potato & Peas Samosa With Phyllo Pastry Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Eggless Baked Chocolate Chip Coins Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Moong Sprouts And Sweet Potato Cutlet Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Methi Pakoras Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chocolate Nutella Lava Cookies Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Baked Bhakarwadi Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Vatana Bateta Na Rotla Recipe - Gujarati Peas and Potato Roti",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Eggless Chocolate Chip And Honey Cookies Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Rajasthani Mirchi Bada Recipe - Chilli Fritters",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Avocado Cheese Chilli Toast Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Crispy Palak Pakora Recipe - Made In Kuzhi Paniyaram Pan",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Karupatti Coffee Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chocolate Toast Recipe Topped With Pumpkin & Sunflower Seeds",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Spinach and Dill Tart With Roasted Peppers Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Butter Coriander & Lemon Sweet Corn Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "बेक्ड चना दाल वड़ा रेसिपी - Baked Chana Dal Vada Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Red Beans And Oats Cutlet Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chilli Chocolate Cookies Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Sprouted Moong Chaat Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Eggless Custard Cookie Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Baked Palak Ki Mathri Recipe (Baked Spinach Spicy Tea-Time Crackers)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Aloo Dal Pakoras Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Badam And Khus Khus Milk Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Buttered Carrot Fingers Recipe (Finger Food For Babies Over 9 Months)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "मुरुंगइ किरई मसाला वडइ रेसिपी - Murungai Keerai Masala Vadai Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Karela Muthia Recipe - Bitter Gourd Steamed Dumplings",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Thayir Vada Recipe (Spicy Fritter Soaked In Sweet Yogurt Recipe)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Heart Shaped Sugar Cookies Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Paneer And Grapes Platter Recipe - Healthy Party Appetizer",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Spinach And Paneer Samosa Recipe With Figaro Pure Olive Oil",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chocolate Crinkle Cookies Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Pomegranate Flavoured Stuffed Khandvi Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Lemon Cherry Berry Spa Water Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Rajasthani Kalmi Vada Recipe - Chana Dal Vada",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Basbousa Recipe - Middle Eastern Semolina Cake",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Roasted Potatoes With Za'atar Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Bajri Methi Na Vada Recipe - Pearl Millet Flour Fritters",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "North East Khapse Recipe (Deep Fried Biscuits From Arunachal)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Eggless Sugarless Oats And Nuts Cookie Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Healthy Ragi Energy Balls with Strawberry Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Healthy Jamun Cooler Recipe (Black Plum Juice)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Maharashtrian Misal Pav Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Refried Beans and Mushroom Tostada Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Cranberry Cookie Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Basil Tea Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Caprese Empanada Recipe With Tomato Basil And Mozzarella",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Giant Chocolate Chunk Cookie Recipe with Walnuts",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Aloo Bread Pakora Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Spicy Mushroom Puffs Recipe (Empanadas stuffed with Mushroom Recipe)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Bhakri Chaat Recipe With Green Moong Sprouts And Aloo",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chocolate Chip Cookies With Coconut Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Parmesan Corn Chili Fries Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Gilka Bhajji Recipe-Silk Squash Fritters",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Spicy Indian Style Onion Rings Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "अंकुरित मूंग और प्याज के पकोड़े रेसिपी - Sprouted Moong And Onion Pakora",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Kesar Malai Doodh Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "मिक्स्ड वेजिटेबल राइस कटलेट रेसिपी - Spicy Mixed Vegetables Rice Cutlet Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Braided Almond Roll Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Udupi Style Sannappa Recipe (Brown Rice and Banana Fritters Recipe)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Iyengar Bakery Khara Biscuit Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Tandoori Paneer Samosa Recipe - With Baked Option",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Malai Chickpea Kebab Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Bakery Style Baked Nippattu Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Baked Banana Chips Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Andhra Style Makka Garelu Recipe (Corn Vada Recipe)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Methi Namak Pare Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Easy Sabudana Vada With Arrowroot Powder Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Achappam Recipe | Kerala Style Fried Rose Cookies",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Vazhaipoo Vadai Recipe (Banana Flower Fried Savoury Snack)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Foxtail Millet Nucchina Unde Recipe (Foxtail Millet and Lentil Dumplings)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Schezwan Style Chinese Veg Samosa Recipe - Roz Ka Khana with Figaro Olive Oil",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Eggless Saffron Laced Almond Cookies Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Makhana Aloo Tikki Recipe (Spiced Lotus Seed Patties Recipe)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Spicy Potato Chutney Sandwich Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Pathare Prabhu Roath Recipe (Semolina Cake)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "करेला चिप्स रेसिपी - Bitter Gourd Chips Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Herbed Muffins With Cheese Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Eggless Dark Chocolate Cookies With Almonds Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Sweet Lime Soda Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Kheel Paniyaram Recipe (Puffed Rice Paniyaram)",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Sabudana Vada Recipe - Deep Fried Sago Patties/Cutlets",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Oats and Vegetable Kebab Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Gujarati Mooli Bajra Muthia Recipe - Radish And Bajra-Besan Dmplings",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Spicy Chana Chaat Frankie Recipe",
+    "Course": "Snack"
+  },
+  {
+    "RecipeName": "Chettinad Idiyappam Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "आंध्रा स्टाइल आलम पचड़ी रेसिपी - Adrak Chutney (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Udupi Style Red Parboiled Rice Sevai Recipe (Red Rice Vermicelli)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kerala Style Tapioca with Coconut Curd Chutney Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Left Over Vadai Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "मसाला डोसा रेसिपी लाल चटनी के साथ - Masala Dosa With Red Chutney Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mixed Vegetable Sagu Recipe - Karnataka Style Vegetable Kurma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Foxtail Millet Pongal Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Oats Ven Pongal Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Rava Vada Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Quick and Easy Bread Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Pudina Idli Recipe - Mint Flavoured Idli",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Udupi Red Parboiled Rice Shavige Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Medu Vada With Onion (Savoury Donuts) Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Khara Bhath Recipe-South Indian Rava Bhath",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Dibba Rotti/Minapa Rotti Recipe (Pan Idli Recipe)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "How To Make Homemade Idiyappam Recipe - Rice Sevai Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "बेले डोसा रेसिपी - Lentil Dosa (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Carrot and Ginger Spiced Dosa Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Andhra Style Uppu Pindi Recipe (Rice Rava and Moong Dal Pudding Recipe)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Foxtail Millet Paruppu Adai With Keerai Recipe - Foxtail Millet and Lentil Crepes with Spinach",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Andhra Cheese & Vegetables Pesarattu Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Spicy Neer Dosa Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Togarikalu Akki Recipe - Karnataka Style Rice Rava Upma with Fresh Pigeon Peas",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Healthy Pumpkin Carrot Idli Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kollu Masala Dosa Recipe - High Protein Horse Gram Dosa",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Broccoli Rava Idli Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Andhra Style Multi Lentil Garelu (Vada Recipe)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Soft Masala Dosa With Red Chutney Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Raw Banana Dosa Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Karwar Style Phodni Phov Recipe- Red Rice Poha With Cashew Nuts",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Karnataka Style Sabsige Soppu Akki Rotti (Dill leaves and flattened Rice Bread Recipe)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Andhra Style Allam Pachadi (Ginger Chutney Recipe)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Sagu Masala Dosa Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Milagai Podi Uthappam Recipe - Spicy Chilli Powder Pancake Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Cucumber Neer Dosa Recipe-Rice Pancake",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mangalorean Neer Dosa Recipe-Savory Rice & Coconut Crepe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Andhra Style Erra Kaaram Dosa Recipe (Spicy Red Chilli Chutney Dosa Recipe)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "सब्ज़ी रवा उपमा रेसिपी - Savory Semolina Breakfast Pudding (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Masala Dosa Recipe With Vegetable Filling Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Carrot Idli Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Tamil Nadu Style Kothamali Aval Upma Recipe - Coriander Poha Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "North Arcot Special Thavalai Dosai Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Andhra Style Kandi Attu Recipe (Toor Dal Dosa Recipe)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kumbakonam Filter Coffee Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "ब्रोकली रवा इडली रेसिपी - Broccoli Rava Idli Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Konkani Style Doddak Recipe-Lentil Pancakes",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Onion Rava Dosa Recipe - Spiced Semolina Crepe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "सब्ज़ रवा इडली रेसिपी - Veggie Rava Idli (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Karwar style Tousali Recipe-Cucumber Steamed Cake",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mushroom Corn Masala Dosa Recipe Using Ragi Idli Dosa Batter",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kerala Style Vattayapam Recipe (Steamed Coconut Rice Cakes Recipe)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mangalore Style Southe Gatti/Southekayi kadubu Recipe (Steamed Cucumber Dumplings)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "आलू सागु रेसिपी - Potato Saagu Recipe For Rava Idli",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Karwar Style Yerappe Ani Recipe- Rice and Black Split Gram Fried Dumpling",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Instant Rava Pizza Uttapam Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Healthy Homemade Ragi Dosa Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Oats And Coconut Dosa Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Karwar Style Kalingana Polo Recipe - Watermelon Rind Dosa",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "पुदीना इडली रेसिपी - Pudina Idli Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Andhra Style Sarva Pindi/Gine Pindi Recipe (Rice Flour and Chana Dal Flatbread Recipe)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kanchipuram Masala Dosa Recipe With Soya Dosa Batter",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mixed Vegetable Idli Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Bele Dose Recipe (Lentil Dosa Recipe)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Thonnai Idli Recipe (Dried Leaves Idli)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Coorg Style Kulae Puttu Recipe- Puttu with Jackfruit & Jaggery",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kodava Ellu Pajji Recipe - Sesame & Tamarind Chutney",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mixed Vegetables Oats Idli Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kuthiraivali Upma Kozhukattai Recipe (Barnyard Millet Steamed Dumplings)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Zucchini Pesarattu Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Homemade Thengai Sevai Recipe - Coconut Idiyappam Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Italian Cheese And Basil Uttappam Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "अवल उपमा रेसिपी - Aval Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "मिनी इडली उपमा रेसिपी - Mini Idli Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Spicy And Tangy Bread Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "आलू सागु रेसिपी - Potato Sagu Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Avarekalu Kadubu Recipe (Hyacinth Beans Steamed Dumplings)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Barnyard Millet Sweet Pongal Recipe (Kuthiraivali Sakkarai Pongal)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Kodava Thalia Puttu Recipe - Steamed Rice Coconut Cake",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mini Onion Vada With Vengaya Sambar Recipe - Pan Fried Fritters in Tangy Lentil Curry",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Carrot Podi Dosa Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Cheesy Veg Paniyaram Recipe With Cheesy Tomato Chutney",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Mysore Masala Dosa Made With Ragi Dosa Batter",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "मिक्स्ड वेजिटेबल इडली उपमा रेसिपी - Mixed Vegetable Idli Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Aval Upma Recipe - South Indian Style Poha",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "सब्जी वाली रवा इडली रेसिपी - Veggie Rava Idli (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Moong Dal Idli With Thengai Milagai Podi Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "टमाटर की चटनी रेसिपी - Tomato Chutney (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Sabbasige Soppu Dosa Recipe (Dill Leaves Sweet Dosa)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Homemade Lemon Sevai Recipe - Lemon Idiyappam Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Chettinad Style Tomato Vermicelli Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "सेवई बिरयानी रेसिपी - Vermicelli Biryani (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Oats Uttapam topped with Paneer Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "रेड राइस डोसा रेसिपी - Red Rice Dosa (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Healthy Spinach Idli Recipe (Steamed Spinach Savory Cake)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Karnataka Style Avarekai Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "रवा पोंगल रेसिपी - Rava Pongal (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "मुरमुरे का उपमा रेसिपी - Puffed Rice Upma (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Menthya Dose (Dosa Recipe With Methi Leaves)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Karnataka Style Bonda Soup Recipe-Urad dal Fritters in Spicy Dal Soup",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "फॉक्सटेल मिलेट रवा इडली रेसिपी - Foxtail Millet Rava Idli (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Spicy Tomato Uttapam With Garlic Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Homemade Rice Puttu Recipe | Kerala Matta Rice or Basmati Rice",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Medu Vada Recipe (Traditional Fried Urad Dal Vada Using Vada Maker)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Godhumai Idli Recipe (Instant Whole Wheat Flour Idli)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Varagu Arisi Pongal Recipe -Kodo Millet Pongal",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Sabbakki Rava Idli Recipe- Sabudana Rava Idli",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Potato Sagu Recipe for Rava Idli",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Nagli Rava Upma Recipe - Healthy Ragi Rava Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Tomato Upma Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "ओट्स वेन पोंगल रेसिपी - Oats Ven Pongal (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "आंध्रा स्टाइल कंदी पचड़ी रेसिपी - Andhra Style Kandi Pachadi (Recipe In Hindi)",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Onion Tomato Podi Masala Dosa Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "मसाला पोहे रेसिपी - Masala Pohe Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Red Rice Dosa Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Karnataka Style Set Dosa Recipe",
+    "Course": "South Indian Breakfast"
+  },
+  {
+    "RecipeName": "Vegan Instant Coffee Recipe",
+    "Course": "Vegan"
+  },
+  {
+    "RecipeName": "पालक पनीर भुर्जी रेसिपी - Palak Paneer Bhurji Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Pomegranate Frozen Margarita Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "अचारी मसाला पाउडर रेसिपी - Achari Masala Powder Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Thalipeeth Bhajani Recipe -Typical Maharashtrian Multigrain Flour Mix",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Palak Paneer Bhurji Recipe -Spiced Cottage Cheese Scramble With Spinach Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Savory Oatmeal Bowl with Sautéed Spinach and Corn Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Roasted Tomato Basil Pasta & Pizza Sauce Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Bellada Coffee Recipe With Milk (Karnataka Style Filter Coffee With Jaggery)",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Savory Oatmeal Bowl with Chettinad Mushroom and Green Peas Stir Fry Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Carrot Ginger Juice Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Cucumber Ginger Lemonade Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Chamomile Tea Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Chaat Masala Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Coffee Recipe With Instant Coffee Powder",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Punjabi Garam Masala Powder Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Homemade Hoisin Sauce Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "काली मिर्च चाय रेसिपी - Kali Mirch Chai Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Golden Turmeric Almond Saffron Milk Shot Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Apple And Ginger Cocktail Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Ras El Hanout Recipe (Moroccan Spice Powder)",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Spinach and Basil Pasta Sauce Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Homemade Coconut Milk Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Chettinad Masala Powder Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Ginger-Holy Basil Tisane - Adrak Tulsi Chai Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Goan Recheado Masala Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Vegetarian Thukpa Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Korean Style Gochujang Recipe (Hot Pepper Paste Recipe)",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "चाट मसाला रेसिपी - Chaat Masala Recipe",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Homemade Alfredo Pasta Sauce Recipe-Creamy White Sauce For Pasta",
+    "Course": "Vegetarian"
+  },
+  {
+    "RecipeName": "Papaya Basil Smoothie With Chia Seeds Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Refreshing Smoothie Recipe With Cucumber & Kiwi",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "How to Make Tutty Fruity Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Fruit Tart Recipe - Vegan",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Golden Glow Smoothie Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Vegetable Sandwich Recipe With Mashed Avocado And Cottage Cheese",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Walnut and Flax Seed Trail Mix Recipe With Figs and Honey",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Carrot Corn Mayo Pancake Recipe With Sandwich Spread",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Masala Carrot And Peas Sandwich Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Spinach And Corn Sandwich Recipe Flavored With Sandwich Spread",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Banana Digestive Pudding Recipe With Pistachios",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "High Protein Spinach Basil & Cheese Omelette Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Watermelon Carrot Radish Juice Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Heart Shaped Tea Sandwiches Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Breakfast Enchiladas With Mushroom Sauce Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Eggless Nutella Crepes With Strawberries Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Tomato Jam Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Jaggery Sweetened Apple Oatmeal Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Breakfast Bar Recipe With Berries Quinoa & Oats",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Spiced Coconut Oatmeal With Assorted Fruits Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Strawberry Smoothie Bowl with chia seeds and Muesli Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Apple Pancake Mess Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Buckwheat and Oatmeal Chocochip Pancakes Recipe (Eggless)",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Aloo Tikki Stuffed Pita Sandwich Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Whole Wheat Homemade English Muffins Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Kale & Leeks Frittata Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Evergreen Smoothie Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Oat Banana Pancakes Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Avocado Chocolate Pancakes Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Whole Wheat Crepes With Roasted Vegetables And White Sauce Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Masala Oats And Potato Sandwich Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "French Toast Jam Roll Ups Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Carrot Cake Pancakes Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Green Peas Sandwich Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Beetroot Juice Recipe With Cucumber & Pineapple",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "बनाना ऐपल पिस्ता पोरीज रेसिपी - Banana Apple Porridge (Recipe In Hindi)",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Crepes Stuffed with Nutella and Seasonal Fruits Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Banana And Mango Smoothie Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "रागी और ओट्स नाश्ते का बाउल रेसिपी - Crunchy Ragi And Oats Breakfast Bowl Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Potato And Paneer Reuben Sandwich Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Pinacolada Smoothie Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Stuffed Tomatoes with Quinoa, Spinach and Cheese Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "चिल्ली गार्लिक टोस्ट रेसिपी - Chilli Garlic Toast (Recipe In Hindi)",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Sweet Mixed Fruits And Granola Breakfast Wraps Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Basic Homemade Bread Recipe Using Yeast",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "टमाटर जैम रेसिपी - Tomato Jam Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Granola Yogurt Parfait Recipe with Fresh Kiwi & Pomegranates",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "High Fiber Oat And Orange Coconut Parfait Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Zucchini Pancake Recipe With Tomato Salsa",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Apple And Pomegranate Smoothie Recipe",
+    "Course": "World Breakfast"
+  },
+  {
+    "RecipeName": "Healthy Black Bean Stuffed Burrito Recipe With Amaranth And Quinoa",
+    "Course": "World Breakfast"
+  }
+]

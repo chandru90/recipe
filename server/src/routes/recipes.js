@@ -682,16 +682,25 @@ const router = express.Router();
 
 let promptcount =0
 const rand = arr => arr[Math.floor(Math.random() * arr.length)];
+// const jsonfiles = [
+//   'src/reecipes/sam.json',
+//   'src/reecipes/samp.json',
+//   'src/reecipes/sampl.json',
+//   'src/reecipes/sample.json',
+//   'src/reecipes/sampler.json'
+// ];
+
+
+
 const jsonfiles = [
-  'src/sam.json',
-  'src/samp.json',
-  'src/sampl.json',
-  'src/sample.json',
-  'src/sampler.json'
+  'src/reecipes/recipesamp.json',
+  'src/reecipes/recipesample.json',
+  'src/reecipes/recipsample.json',
+  'src/reecipes/reip.json',
 ];
-  const file = rand(jsonfiles);
-
-
+  // const file = rand(jsonfiles);
+const file = jsonfiles[Math.floor(Math.random() * jsonfiles.length)];
+console.log("file name",file)
 const loadjson = async () => {
 
   console.log("file",file)
@@ -700,7 +709,7 @@ const loadjson = async () => {
 };
 
 loadjson().then(data => {
-  console.log(data);
+  // console.log(data);
 });
 let respons = []
 const ollama = new Ollama({
@@ -1059,6 +1068,189 @@ const adultprompt = {
     "notes_on_energy_adjustment": true
   }
 };
+
+const allAgePrompt = {
+  "task": "Create a daily meal plan for adults aged 19 to 59 years.",
+  "target_population": {
+    "age": "19-59 years",
+    "groups": ["men", "women"]
+  },
+  "nutrient_requirements": {
+    "men_19_59": {
+      "energy_kcal": {
+        "EAR": 2110,
+        "RDA": null
+      },
+      "dietary_fibre_g": {
+        "EAR": null,
+        "RDA": 30
+      },
+      "protein_g": {
+        "EAR": 45.7,
+        "RDA": 54.0
+      },
+      "vitamin_A_ug": {
+        "EAR": 630,
+        "RDA": 1000
+      },
+      "thiamine_B1_mg": {
+        "EAR": 1.0,
+        "RDA": 1.2
+      },
+      "riboflavin_B2_mg": {
+        "EAR": 1.1,
+        "RDA": 1.3
+      },
+      "niacin_mg": {
+        "EAR": null,
+        "RDA": 16
+      },
+      "vitamin_C_mg": {
+        "EAR": 65,
+        "RDA": 80
+      },
+      "vitamin_B6_mg": {
+        "EAR": 1.1,
+        "RDA": 1.3
+      },
+      "folate_ug": {
+        "EAR": 320,
+        "RDA": 400
+      },
+      "vitamin_B12_ug": {
+        "EAR": 2.0,
+        "RDA": 2.4
+      },
+      "vitamin_D_IU": {
+        "EAR": 400,
+        "RDA": 600
+      },
+      "calcium_mg": {
+        "EAR": 800,
+        "RDA": 1000
+      },
+      "magnesium_mg": {
+        "EAR": 285,
+        "RDA": 340
+      },
+      "iron_mg": {
+        "EAR": 5.0,
+        "RDA": 17
+      },
+      "zinc_mg": {
+        "EAR": 10.5,
+        "RDA": 11
+      },
+      "iodine_ug": {
+        "EAR": 95,
+        "RDA": 150
+      }
+    },
+
+    "women_19_59": {
+      "energy_kcal": {
+        "EAR": 1660,
+        "RDA": null
+      },
+      "dietary_fibre_g": {
+        "EAR": null,
+        "RDA": 25
+      },
+      "protein_g": {
+        "EAR": 36.3,
+        "RDA": 45.7
+      },
+      "vitamin_A_ug": {
+        "EAR": 510,
+        "RDA": 840
+      },
+      "thiamine_B1_mg": {
+        "EAR": 0.9,
+        "RDA": 1.1
+      },
+      "riboflavin_B2_mg": {
+        "EAR": 1.0,
+        "RDA": 1.1
+      },
+      "niacin_mg": {
+        "EAR": null,
+        "RDA": 14
+      },
+      "vitamin_C_mg": {
+        "EAR": 55,
+        "RDA": 65
+      },
+      "vitamin_B6_mg": {
+        "EAR": 1.1,
+        "RDA": 1.3
+      },
+      "folate_ug": {
+        "EAR": 320,
+        "RDA": 400
+      },
+      "vitamin_B12_ug": {
+        "EAR": 2.0,
+        "RDA": 2.4
+      },
+      "vitamin_D_IU": {
+        "EAR": 400,
+        "RDA": 600
+      },
+      "calcium_mg": {
+        "EAR": 800,
+        "RDA": 1000
+      },
+      "magnesium_mg": {
+        "EAR": 220,
+        "RDA": 310
+      },
+      "iron_mg": {
+        "EAR": 8.1,
+        "RDA": 21
+      },
+      "zinc_mg": {
+        "EAR": 7.0,
+        "RDA": 8
+      },
+      "iodine_ug": {
+        "EAR": 95,
+        "RDA": 150
+      }
+    }
+  },
+
+  "instructions": [
+    "Create separate daily meal plans for men and women where requirements differ.",
+    "Include breakfast, mid-morning snack, lunch, evening snack, and dinner.",
+    "Provide foods and approximate portion sizes for each meal.",
+    "Mention the key nutrients supplied by each meal.",
+    "Aim to meet or approach the relevant RDA values without unnecessarily exceeding requirements.",
+    "Ensure the diet is balanced, varied, practical, affordable, and culturally appropriate.",
+    "Include adequate sources of high-quality protein throughout the day.",
+    "Include whole grains, pulses, vegetables, fruits, nuts, seeds, and dairy or suitable alternatives.",
+    "Prioritize adequate dietary fibre, vitamins, and minerals.",
+    "Include vegetarian options and, where appropriate, non-vegetarian alternatives.",
+    "Limit excessive added sugar, salt, saturated fat, and highly processed foods.",
+    "Ensure adequate hydration and mention an approximate daily water intake.",
+    "Consider nutrient-dense foods rather than simply increasing food quantity to meet nutrient requirements.",
+    "For women of reproductive age, highlight iron- and folate-rich foods.",
+    "For adults with low physical activity, avoid unnecessarily increasing energy intake.",
+    "Use common household measures such as cups, tablespoons, teaspoons, grams, pieces, and millilitres.",
+    "Clearly state that energy requirements vary with body size, physical activity, occupation, and health status."
+  ],
+
+  "output_format": {
+    "meal_plan": true,
+    "portion_sizes": true,
+    "nutrient_contribution": true,
+    "daily_nutrient_summary": true,
+    "comparison_with_RDA": true,
+    "hydration": true,
+    "vegetarian_alternatives": true,
+    "non_vegetarian_alternatives": true,
+    "notes_on_energy_adjustment": true
+  }
+};
 const kidsprompt ={
 
 "task": "Create an age- and sex-specific daily meal plan for children and adolescents using the provided nutrition guidelines.",
@@ -1231,27 +1423,29 @@ const loc ="tamil"
 
 // const query ="low glycemic,Complex Carbohydrates,high-fibre carbohydrate diabetic friendly"
 
+const jsonfiles = [
+  'src/reecipes/recipesamp.json',
+  'src/reecipes/recipesample.json',
+  'src/reecipes/recipsample.json',
+  'src/reecipes/reip.json',
+];
 
+const file = jsonfiles[Math.floor(Math.random() * jsonfiles.length)];
 
-console.log("prompt group",promptgroup)
+console.log("file name:", file);
 
-// Read JSON file
-const raw = fs.readFileSync(file,"utf8");
+const raw = fs.readFileSync(file, "utf8");
 const data1 = JSON.parse(raw);
-
-// If nutrition data is the same dataset
-const nutridata1 = data1;
 
 console.log("JSON Loaded");
 console.log("Total Rows:", data1.length);
-console.log("Nutrition Rows:", nutridata1.length);
 
 const text = JSON.stringify(data1, null, 2).substring(0, 99000);
-const text1 = JSON.stringify(nutridata1, null, 2).substring(0, 99000);
+const text1 = text;
 
-console.log("========== JSON TEXT ==========");
-console.log(text.substring(0, 500));
-console.log("========== END JSON TEXT ==========");
+// console.log("========== JSON TEXT ==========");
+// console.log(text.substring(0, 500));
+// console.log("========== END JSON TEXT ==========");
 
 
 
@@ -1827,7 +2021,7 @@ compare against the cal  and give total_day_summary of total calories protien dv
 
 
 
-    console.log("Prompt Sent" ,prompt);
+    // console.log("Prompt Sent" ,prompt);
 
 
     const result = await ollama.chat({
@@ -1838,11 +2032,12 @@ compare against the cal  and give total_day_summary of total calories protien dv
           content: prompt,
         },
       ],
+      
    
     })
     ;
    promptcount++;
-console.log("output",result.message.content)
+// console.log("output",result.message.content)
     let output = result.message.content;
 
 // responses.push({
@@ -1872,7 +2067,7 @@ console.log("output",result.message.content)
 
     // console.log("========== OLLAMA RESPONSE ==========");
     // console.log(output);
-console.log("sample response",jsonResponse)
+// console.log("sample response",jsonResponse)
 
     return res.json(jsonResponse);
 

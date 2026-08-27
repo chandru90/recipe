@@ -175,9 +175,18 @@ const posts = [
     category: "",
   },
 
+{
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7497828541124927488",
+    height: 400,
+    category: "",
+  },
 
 
-
+  {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7490284289532772352",
+    height: 400,
+    category: "",
+  },
 
 
 
