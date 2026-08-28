@@ -65,154 +65,163 @@ const posts = [
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7478068117089415168",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7424754580799913986",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7482287604068167680?collapsed=1",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7481409929808056320",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7487373614569324544?collapsed=1",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7487732725940908032",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7485646387699953666",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7485858500804243457",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7490374662976090115",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7489361207561318400",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7491758823490363393",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7489561751517093888",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7480342587665612801",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7477299859021160449",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7477004142268436480",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7493740985739509760",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7496240140244385793",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7496148473323573248",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7490513499224190976",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7493354806976348160",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7490054571130523649",
     height: 400,
-    category: "",
+    category: "food",
   },
 
 
  {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7497506422503403520",
     height: 400,
-    category: "",
+    category: "food",
   },
 
 {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7497828541124927488",
     height: 400,
-    category: "",
+    category: "food",
   },
 
 
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7490284289532772352",
     height: 400,
-    category: "",
+    category: "food",
   },
    {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7498367778463260672",
     height: 400,
-    category: "",
+    category: "food",
   },
   {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7495698425682972672",
     height: 400,
-    category: "",
+    category: "food",
   },
 
  {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7479528579987419136",
     height: 400,
-    category: "",
+    category: "food",
   },
    {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7496875944138211328",
     height: 400,
-    category: "",
+    category: "food",
   },
    {
     url: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7496879248352161792",
     height: 400,
-    category: "",
+    category: "food",
   },
+
+{
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7498434489749274624",
+    height: 400,
+    category: "food",
+  },
+
+
+
 
 ];
 
