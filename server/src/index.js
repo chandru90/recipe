@@ -220,8 +220,36 @@ const posts = [
     category: "food",
   },
 
+{
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7499085938216554497",
+    height: 400,
+    category: "food",
+  },
 
 
+
+{
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7498935792686440448",
+    height: 400,
+    category: "food",
+  },
+{
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7499494626589081600?collapsed=1",
+    height: 400,
+    category: "food",
+  },
+
+
+  {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7493043623144591360",
+    height: 400,
+    category: "food",
+  },
+  {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7497890035682148352",
+    height: 400,
+    category: "food",
+  },
 
 ];
 
@@ -462,6 +490,7 @@ app.get("/linkedin", async (req, res) => {
     );
 
     const results = await Promise.all(
+      
       posts.map((post) =>
         fetchLinkedInPost(post)
       )
