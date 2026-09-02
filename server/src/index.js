@@ -251,6 +251,23 @@ const posts = [
     category: "food",
   },
 
+ {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7500046258837807104?collapsed=1",
+    height: 400,
+    category: "food",
+  },
+
+
+ {
+    url: "https://www.linkedin.com/embed/feed/update/urn:li:share:7498802016526319616",
+    height: 400,
+    category: "food",
+  },
+
+
+
+
+
 ];
 
 // ======================================================

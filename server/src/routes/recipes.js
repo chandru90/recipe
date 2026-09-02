@@ -2384,8 +2384,11 @@ IMPORTANT RECIPE RULES:
 20. Lunch should preferably use Lunch or Main Course.
 21. Dinner should preferably use Dinner or Main Course.
 Give nutrition per serving
-From the selected recipes suggest recipes more suitable for kids
 
+Include side dishes for lunch Dont give chutneys
+From the selected recipes suggest recipes more suitable for kids
+Dont suggest soups or smoothies for breakfast lunch and dinner
+suggest soups or smoothies along addons
 For every meal generate:
 
 recipe_name
@@ -2445,6 +2448,19 @@ amount
 unit
 percent_daily_value
 
+
+
+
+generate "summary": {
+      "total_calories": "",
+      "dv": "",
+      "proteins_dv": "",
+      "carbs_dv": "",
+      "fats_dv": "",
+      "fiber_dv": ""
+    }  in the above format
+      
+
 If information is unavailable, use "n/a".
 Give cooking instructions in detail
 // **COOKING INSTRUCTIONS:**
@@ -2488,7 +2504,9 @@ Use exactly this structure:
   "meal_plan": {
     "day_1": {
       "breakfast": {},
-      "lunch": {},
+      "lunch": {
+      side_dishes:{}
+      },
       "healthy_snack": {},
       "dinner": {}
       "day_summary": {
@@ -2499,6 +2517,14 @@ Use exactly this structure:
       "fats" :""
 
       }
+      "summary": {
+      "total_calories": "",
+      "dv": "",
+      "proteins_dv": "",
+      "carbs_dv": "",
+      "fats_dv": "",
+      "fiber_dv": ""
+    }
       
     },
     "day_2": {
@@ -2767,6 +2793,1241 @@ For each meal use:
     });
   }
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+router.get("/meditaterian", async (req, res) => {
+  try {
+    const group = req.query.group || "all";
+    const ingredient = req.query.ingredient || "";
+    const cachedata = req.query.cachedata || "";
+
+    // ---------------------------------------------------------
+    // 1. TARGET AUDIENCE
+    // ---------------------------------------------------------
+
+    const targetAudience =
+      group === "kids"
+        ? "Kids"
+        : group === "adult"
+        ? "Adults"
+        : group === "elderly"
+        ? "Elderly"
+        : group === "diabetic"
+        ? "Diabetic"
+        : "All age groups";
+
+    const promptgroup =
+      group === "kids"
+        ? kidsprompt
+        : group === "adult"
+        ? adultprompt
+        : group === "elderly"
+        ? elderlyprompt
+        : group === "diabetic"
+        ? diabeticprompt
+        : allAgePrompt;
+
+    // ---------------------------------------------------------
+    // 2. INGREDIENT PROMPT
+    // ---------------------------------------------------------
+
+    const ingredientPrompt = ingredient
+      ? `Use "${ingredient}" as the primary ingredient whenever possible.`
+      : "No specific ingredient is required.";
+
+    // ---------------------------------------------------------
+    // 3. SELECT RANDOM JSON FILE
+    // ---------------------------------------------------------
+
+    const file =
+      jsonfiles[Math.floor(Math.random() * jsonfiles.length)];
+
+    console.log("File name:", file);
+
+    const raw = fs.readFileSync(file, "utf8");
+    const data1 = JSON.parse(raw);
+
+    console.log("JSON Loaded");
+    console.log("Total Rows:", data1.length);
+
+    // ---------------------------------------------------------
+    // 4. FISHER-YATES SHUFFLE
+    // ---------------------------------------------------------
+
+    function shuffle(array) {
+      const result = [...array];
+
+      for (let i = result.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+
+        [result[i], result[j]] = [result[j], result[i]];
+      }
+
+      return result;
+    }
+
+    // ---------------------------------------------------------
+    // 5. GET RECIPES FROM CACHE
+    // ---------------------------------------------------------
+
+    let cachedRecipeNames = [];
+
+    if (cachedata) {
+      try {
+        // If cachedata is JSON
+        const parsedCache = JSON.parse(cachedata);
+
+        if (Array.isArray(parsedCache)) {
+          cachedRecipeNames = parsedCache
+            .map((item) => {
+              if (typeof item === "string") {
+                return item.trim().toLowerCase();
+              }
+
+              return (
+                item.recipe_name ||
+                item.RecipeName ||
+                ""
+              )
+                .trim()
+                .toLowerCase();
+            })
+            .filter(Boolean);
+        } else if (parsedCache.meal_plan) {
+          // If cachedata contains the complete meal plan
+          Object.values(parsedCache.meal_plan).forEach((day) => {
+            if (!day || typeof day !== "object") return;
+
+            ["breakfast", "lunch", "healthy_snack", "dinner"].forEach(
+              (mealType) => {
+                const meal = day[mealType];
+
+                if (meal?.recipe_name) {
+                  cachedRecipeNames.push(
+                    meal.recipe_name.trim().toLowerCase()
+                  );
+                }
+              }
+            );
+          });
+        }
+      } catch (error) {
+        // If cachedata is not valid JSON, treat it as comma-separated names
+        cachedRecipeNames = cachedata
+          .split(",")
+          .map((name) => name.trim().toLowerCase())
+          .filter(Boolean);
+      }
+    }
+
+    console.log(
+      "Cached recipes:",
+      cachedRecipeNames.length
+    );
+
+    // ---------------------------------------------------------
+    // 6. REMOVE CACHED RECIPES
+    // ---------------------------------------------------------
+
+    const availableRecipes = data1.filter((recipe) => {
+      const recipeName = String(
+        recipe.RecipeName || recipe.recipe_name || ""
+      )
+        .trim()
+        .toLowerCase();
+
+      return (
+        recipeName &&
+        !cachedRecipeNames.includes(recipeName)
+      );
+    });
+
+    console.log(
+      "Available after cache exclusion:",
+      availableRecipes.length
+    );
+
+    // ---------------------------------------------------------
+    // 7. RANDOMLY SELECT ONLY 50 CANDIDATES
+    // ---------------------------------------------------------
+
+    const shuffledRecipes = shuffle(availableRecipes);
+
+    const selectedRecipes = shuffledRecipes.slice(0, 50);
+
+    console.log(
+      "Random candidate recipes:",
+      selectedRecipes.length
+    );
+
+    // ---------------------------------------------------------
+    // 8. SEND ONLY NAME + COURSE TO OLLAMA
+    // ---------------------------------------------------------
+
+    const recipeList = selectedRecipes.map((recipe) => ({
+      recipe_name:
+        recipe.RecipeName ||
+        recipe.recipe_name ||
+        "n/a",
+
+      course:
+        recipe.Course ||
+        recipe.course ||
+        "n/a"
+    }));
+
+    const recipeListText = JSON.stringify(
+      recipeList
+    );
+
+    console.log(
+      "Recipe list characters:",
+      recipeListText.length
+    );
+
+    // ---------------------------------------------------------
+    // 9. PROMPT
+    // ---------------------------------------------------------
+
+const prompt = `
+You are an expert chef, nutritionist, and meal planner.
+
+TARGET AUDIENCE:
+${targetAudience}
+
+DIETARY / AUDIENCE REQUIREMENTS:
+${promptgroup}
+
+INGREDIENT REQUIREMENT:
+${ingredientPrompt}
+
+AVAILABLE RECIPES:
+
+// ${recipeListText}
+
+
+# RECIPE PLANNER — GENERATION RULES
+
+Generate a 7-day Mediterranean-style healthy meal plan using the selected recipes.
+
+
+## 1. RECIPE SELECTION
+
+1. Select the best healthy Mediterranean-style recipes from the available recipe dataset.
+
+2. Prefer recipes that emphasize:
+   - Vegetables and fruits
+   - Whole grains
+   - Beans, lentils, and other legumes
+   - Nuts and seeds
+   - Olive oil and other healthy unsaturated fats
+   - Fish and seafood
+   - Moderate poultry, eggs, and dairy
+   - Minimally processed ingredients
+
+3. Prefer practical recipes using commonly available ingredients.
+
+4. Do not use cached recipes.
+
+5. Do not invent or fabricate recipe names when selecting from the provided recipe dataset.
+
+6. NEVER modify, shorten, combine, translate, or rewrite a recipe_name.
+   Preserve the exact original recipe name from the available recipe dataset.
+
+7. Every recipe_name must be unique across the entire 7-day plan.
+
+8. Do not excessively repeat the same primary ingredient.
+
+9. Vary protein sources throughout the week.
+
+10. Vary vegetables, grains, legumes, nuts, and seeds throughout the week.
+
+11. Vary cooking methods throughout the week, such as:
+    - Grilling
+    - Baking
+    - Roasting
+    - Steaming
+    - Sautéing
+    - Stir-frying
+    - Boiling
+    - Slow cooking
+
+
+## 2. PLAN DURATION
+
+Generate exactly 7 days.
+
+Each day MUST contain exactly these four main meals:
+
+- breakfast
+- lunch
+- healthy_snack
+- dinner
+
+Do not generate fewer or more than 7 days.
+
+Do not omit any required meal.
+
+
+## 3. COURSE REQUIREMENTS
+
+### Breakfast
+
+Prefer recipes from:
+- Breakfast
+- Brunch
+
+Breakfast must be a substantial meal.
+
+Do not use soups or smoothies as the main breakfast.
+
+
+### Lunch
+
+Prefer recipes from:
+- Lunch
+- Main Course
+
+Lunch MUST contain:
+- One main recipe
+- Appropriate side dishes
+
+Do not use chutneys.
+
+Do not use soups or smoothies as the main lunch.
+
+
+### Healthy Snack
+
+Prefer recipes from:
+- Snack
+- Appetizer
+
+Choose nutrient-dense snacks containing combinations of:
+- Protein
+- Fiber
+- Healthy fats
+
+Avoid using dessert recipes as regular snacks unless they are genuinely suitable as a healthy snack.
+
+
+### Dinner
+
+Prefer recipes from:
+- Dinner
+- Main Course
+
+Dinner should be balanced and reasonably light.
+
+Do not use soups or smoothies as the main dinner.
+
+
+## 4. SIDE DISH RULES
+
+For every lunch, include suitable side dishes.
+
+Examples:
+- Roasted vegetables
+- Steamed vegetables
+- Fresh salad
+- Whole grains
+- Legume-based sides
+- Yogurt-based sides
+- Baked vegetables
+
+NEVER suggest chutneys as side dishes.
+
+Side dishes should:
+- Complement the main recipe nutritionally
+- Add variety
+- Avoid unnecessary duplication of the main ingredients
+
+
+## 5. SOUP AND SMOOTHIE RULE
+
+Soups and smoothies must NEVER replace the main breakfast, lunch, or dinner recipe.
+
+They may only be suggested as optional addons when appropriate.
+
+Examples:
+- "Lentil soup as an optional starter"
+- "Vegetable smoothie as an optional nutrient-rich drink"
+
+Do not force a soup or smoothie into every meal.
+
+Only include soups or smoothies when they are nutritionally and contextually appropriate.
+
+
+## 6. ADDONS
+
+For EVERY meal, provide useful optional addons.
+
+Examples:
+- Fresh fruit
+- Nuts
+- Seeds
+- Yogurt
+- Salad
+- Roasted vegetables
+- Whole grains
+- Olive oil
+- Optional soup
+- Optional smoothie
+
+Do not suggest chutneys.
+
+Addons should complement the meal rather than duplicate ingredients already present.
+
+
+## 7. NUTRITION BALANCE
+
+Balance the weekly plan across:
+- Protein
+- Complex carbohydrates
+- Healthy fats
+- Fiber
+- Vitamins
+- Minerals
+
+Avoid making every meal heavily focused on only one nutrient.
+
+Provide nutrition per serving for every main recipe.
+
+Include the following nutrition information whenever available:
+- Calories
+- Protein
+- Carbohydrates
+- Fat
+- Fiber
+
+Use the nutrition values associated with the selected recipe whenever available.
+
+Do not create unrealistic or unsupported nutrition values.
+
+
+## 8. PROTEIN VARIETY
+
+Distribute protein sources throughout the week.
+
+Prefer a variety of:
+- Fish
+- Seafood
+- Chicken
+- Eggs
+- Yogurt
+- Milk
+- Beans
+- Lentils
+- Chickpeas
+- Nuts
+- Seeds
+- Other suitable plant proteins
+
+Do not use the same protein source for most meals.
+
+
+## 9. VEGETABLE VARIETY
+
+Use a variety of vegetables throughout the week.
+
+Avoid repeatedly using the same vegetable as the dominant ingredient.
+
+Prefer seasonal and commonly available vegetables where possible.
+
+
+## 10. INGREDIENT REQUIREMENT
+
+If an INGREDIENT REQUIREMENT is provided:
+
+- Prioritize recipes containing that ingredient.
+- Use the ingredient naturally and appropriately.
+- Do not force the ingredient into recipes where it does not fit.
+- Maintain the Mediterranean healthy-diet requirements.
+- If the ingredient cannot reasonably be used in a meal, choose the most suitable alternative.
+
+
+## 11. TARGET AUDIENCE
+
+Strictly follow the provided TARGET AUDIENCE.
+
+Possible audiences may include:
+- Kids
+- Adults
+- Elderly
+- General
+
+Adapt recipe selection, ingredients, spice level, texture, and nutritional emphasis according to the target audience.
+
+Do not ignore the target audience requirements.
+
+
+## 12. KIDS-SUITABLE RECIPES
+
+After creating the complete 7-day meal plan, review the selected recipes.
+
+From the recipes already selected in the meal plan, identify the recipes that are more suitable for kids.
+
+Do not create additional recipes for this section.
+
+Do not select recipes that were not included in the generated meal plan.
+
+Return the exact original recipe_name.
+
+
+## 13. NUTRIKNOW
+
+Generate a short NutriKnow explanation explaining why the selected meal plan is nutritionally beneficial.
+
+Focus on:
+- Mediterranean eating principles
+- Fiber
+- Protein
+- Healthy fats
+- Whole grains
+- Vegetables and fruits
+- Important vitamins and minerals
+- Overall nutritional balance
+
+Keep the explanation factual and easy to understand.
+
+
+## 14. UNIQUENESS CHECK
+
+Before returning the final answer, verify all of the following:
+
+- Exactly 7 days exist.
+- Every day has breakfast, lunch, healthy_snack, and dinner.
+- Every recipe_name is unique across the entire week.
+- No recipe_name has been modified.
+- No cached recipe was used.
+- Lunch contains side dishes.
+- No chutneys are suggested.
+- Soups and smoothies are not used as the main breakfast, lunch, or dinner.
+- Snacks preferably come from Snack or Appetizer courses.
+- Breakfast preferably comes from Breakfast or Brunch courses.
+- Lunch preferably comes from Lunch or Main Course recipes.
+- Dinner preferably comes from Dinner or Main Course recipes.
+- Protein sources are varied.
+- Vegetables are varied.
+- Cooking methods are varied.
+- Nutrition is provided per serving.
+- Kids-suitable recipes come only from the selected weekly recipes.
+- Addons are provided for every meal.
+-Suggest the sevice size to attain the required nutrients
+If any rule is violated, correct the plan before returning it.
+Suggest meal instruction in the following format
+Give day_summary in the exact format
+
+day_summary:{
+      day_calories : "",
+      dv:"dv of calories"
+      Protiens :"dv%",
+      carbohydrates :"dv%",
+      fats :"dv%", 
+      fiber :"dv%"
+      
+      }
+
+## 15. REQUIRED OUTPUT STRUCTURE
+
+Return valid JSON only.
+
+Use exactly this structure:
+
+{
+  "meal_plan": [
+    {
+      "day": "Day 1",
+      "breakfast": {
+        "recipe_name": "",
+        "prep_time": "",
+        "Ingridients":"",
+        "cook_time": "",
+        "cooking_instructions":""  
+         "calories": 0,
+        "cooking_method" :"suggest detailed info around cooking method with its nutritional benefiets "
+        
+        "nutrition_per_serving": {
+          "protein": "",
+          "carbohydrates": "",
+          "fat": "",
+          "fiber": ""
+        },
+        "addons": [],
+        "Nutriknow" :""
+      },
+      "lunch": {
+        "recipe_name": "",
+        "prep_time": "",
+        "cook_time": "",
+        "calories": 0,
+        "cooking_instructions":""  
+        "cooking_method" :"suggest detailed info around cooking method with its nutritional benefiets "
+
+        "nutrition_per_serving": {
+          "protein": "",
+          "carbohydrates": "",
+          "fat": "",
+          "fiber": ""
+        },
+        "side_dishes": [],
+        "addons": [],
+         "Nutriknow" :""
+      },
+      "healthy_snack": {
+        "recipe_name": "",
+        "prep_time": "",
+        "cook_time": "",
+        "cooking_instructions":""  
+       "cooking_method" :"suggest detailed info around cooking method with its nutritional benefiets "
+
+        "calories": 0,
+        "nutrition_per_serving": {
+          "protein": "",
+          "carbohydrates": "",
+          "fat": "",
+          "fiber": ""
+        },
+        "addons": [],
+         "Nutriknow" :""
+      },
+      "dinner": {
+        "recipe_name": "",
+        "prep_time": "",
+        "cook_time": "",
+        "cooking_instructions":""  
+        "cooking_method" :"suggest detailed info around cooking method with its nutritional benefiets "
+
+        "calories": 0,
+        "nutrition_per_serving": {
+          "protein": "",
+          "carbohydrates": "",
+          "fat": "",
+          "fiber": ""
+        },
+        "addons": [],
+         "Nutriknow" :""
+      }
+          
+    }
+      day_summary:{
+      day_calories : "",
+      dv:"",
+      Protiens :"",
+      carbohydrates :"",
+      fats :"", 
+      fiber :""
+      
+      }
+  ],
+
+
+}
+
+
+## 16. FINAL INSTRUCTION
+
+Generate the best possible 7-day healthy Mediterranean meal plan while strictly following all rules above.
+
+Priority order:
+
+Authenticity
+→ Nutrition
+→ Variety
+→ Practicality
+→ Target Audience
+→ Ingredient Requirement
+
+Do not explain the rules.
+
+Return only the requested JSON.
+`;
+    console.log("Prompt Sent");
+
+    // ---------------------------------------------------------
+    // 10. OLLAMA REQUEST
+    // ---------------------------------------------------------
+
+    const result = await ollama.chat({
+      model: "gemma4:31b-cloud",
+
+      messages: [
+        {
+          role: "user",
+          content: prompt
+        }
+      ]
+    });
+
+    promptcount++;
+
+    let output = result?.message?.content || "";
+
+    console.log(
+      "Ollama output characters:",
+      output.length
+    );
+
+    // ---------------------------------------------------------
+    // 11. CLEAN MARKDOWN
+    // ---------------------------------------------------------
+
+    output = output
+      .replace(/```json/gi, "")
+      .replace(/```/g, "")
+      .trim();
+
+    // ---------------------------------------------------------
+    // 12. PARSE JSON
+    // ---------------------------------------------------------
+
+    let jsonResponse;
+
+    try {
+      jsonResponse = JSON.parse(output);
+    } catch (error) {
+      console.error(
+        "Invalid JSON from Ollama:",
+        error.message
+      );
+
+      return res.status(502).json({
+        error: "Ollama returned invalid JSON",
+        raw_output: output.substring(0, 5000)
+      });
+    }
+
+    // ---------------------------------------------------------
+    // 13. VALIDATE MEAL PLAN
+    // ---------------------------------------------------------
+
+    if (
+      !jsonResponse ||
+      !jsonResponse.meal_plan
+    ) {
+      return res.status(502).json({
+        error: "Invalid meal plan structure from Ollama",
+        response: jsonResponse
+      });
+    }
+
+    // ---------------------------------------------------------
+    // 14. RETURN RESPONSE
+    // ---------------------------------------------------------
+
+    return res.json(jsonResponse);
+
+  } catch (error) {
+    console.error(
+      "Recipe generation error:",
+      error
+    );
+
+    // Ollama concurrency / timeout
+    if (
+      error?.status_code === 429 ||
+      error?.status === 429
+    ) {
+      return res.status(429).json({
+        error: "Recipe generation is busy",
+        message:
+          "Another recipe generation request is currently being processed. Please try again shortly."
+      });
+    }
+
+    return res.status(500).json({
+      error: "Recipe generation failed",
+      message: error.message
+    });
+  }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+router.get("/recipeplan", async (req, res) => {
+  try {
+    const course = req.query.course || "";
+    const ingredient = req.query.ingredient || "";
+    const cachedata = req.query.cachedata || "";
+
+    // ---------------------------------------------------------
+    // 1. TARGET AUDIENCE
+    // ---------------------------------------------------------
+
+    // ---------------------------------------------------------
+    // 2. INGREDIENT PROMPT
+    // ---------------------------------------------------------
+
+    const ingredientPrompt = ingredient
+      ? `Use "${ingredient}" as the primary ingredient whenever possible.`
+      : "No specific ingredient is required.";
+
+    // ---------------------------------------------------------
+    // 3. SELECT RANDOM JSON FILE
+    // ---------------------------------------------------------
+
+    const file =
+      jsonfiles[Math.floor(Math.random() * jsonfiles.length)];
+
+    console.log("File name:", file);
+
+    const raw = fs.readFileSync(file, "utf8");
+    const data1 = JSON.parse(raw);
+
+    console.log("JSON Loaded");
+    console.log("Total Rows:", data1.length);
+
+    // ---------------------------------------------------------
+    // 4. FISHER-YATES SHUFFLE
+    // ---------------------------------------------------------
+
+    function shuffle(array) {
+      const result = [...array];
+
+      for (let i = result.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+
+        [result[i], result[j]] = [result[j], result[i]];
+      }
+
+      return result;
+    }
+
+    // ---------------------------------------------------------
+    // 5. GET RECIPES FROM CACHE
+    // ---------------------------------------------------------
+
+    let cachedRecipeNames = [];
+
+    if (cachedata) {
+      try {
+        // If cachedata is JSON
+        const parsedCache = JSON.parse(cachedata);
+
+        if (Array.isArray(parsedCache)) {
+          cachedRecipeNames = parsedCache
+            .map((item) => {
+              if (typeof item === "string") {
+                return item.trim().toLowerCase();
+              }
+
+              return (
+                item.recipe_name ||
+                item.RecipeName ||
+                ""
+              )
+                .trim()
+                .toLowerCase();
+            })
+            .filter(Boolean);
+        } else if (parsedCache.meal_plan) {
+          // If cachedata contains the complete meal plan
+          Object.values(parsedCache.meal_plan).forEach((day) => {
+            if (!day || typeof day !== "object") return;
+
+            ["breakfast", "lunch", "healthy_snack", "dinner"].forEach(
+              (mealType) => {
+                const meal = day[mealType];
+
+                if (meal?.recipe_name) {
+                  cachedRecipeNames.push(
+                    meal.recipe_name.trim().toLowerCase()
+                  );
+                }
+              }
+            );
+          });
+        }
+      } catch (error) {
+        // If cachedata is not valid JSON, treat it as comma-separated names
+        cachedRecipeNames = cachedata
+          .split(",")
+          .map((name) => name.trim().toLowerCase())
+          .filter(Boolean);
+      }
+    }
+
+    console.log(
+      "Cached recipes:",
+      cachedRecipeNames.length
+    );
+
+    // ---------------------------------------------------------
+    // 6. REMOVE CACHED RECIPES
+    // ---------------------------------------------------------
+
+    const availableRecipes = data1.filter((recipe) => {
+      const recipeName = String(
+        recipe.RecipeName || recipe.recipe_name || ""
+      )
+        .trim()
+        .toLowerCase();
+
+      return (
+        recipeName &&
+        !cachedRecipeNames.includes(recipeName)
+      );
+    });
+
+    console.log(
+      "Available after cache exclusion:",
+      availableRecipes.length
+    );
+
+    // ---------------------------------------------------------
+    // 7. RANDOMLY SELECT ONLY 50 CANDIDATES
+    // ---------------------------------------------------------
+
+    const shuffledRecipes = shuffle(availableRecipes);
+
+    const selectedRecipes = shuffledRecipes.slice(0, 50);
+
+    console.log(
+      "Random candidate recipes:",
+      selectedRecipes.length
+    );
+
+    // ---------------------------------------------------------
+    // 8. SEND ONLY NAME + COURSE TO OLLAMA
+    // ---------------------------------------------------------
+
+    const recipeList = selectedRecipes.map((recipe) => ({
+      recipe_name:
+        recipe.RecipeName ||
+        recipe.recipe_name ||
+        "n/a",
+
+      course:
+        recipe.Course ||
+        recipe.course ||
+        "n/a"
+    }));
+
+    const recipeListText = JSON.stringify(
+      recipeList
+    );
+
+    console.log(
+      "Recipe list characters:",
+      recipeListText.length
+    );
+
+    // ---------------------------------------------------------
+    // 9. PROMPT
+    // ---------------------------------------------------------
+
+    const prompt = `
+You are an expert chef, nutritionist and meal planner.
+
+
+
+INGREDIENT REQUIREMENT:
+${ingredientPrompt}
+${course}
+AVAILABLE RECIPES:
+
+${recipeListText}
+
+IMPORTANT RECIPE RULES:
+
+1. Select recipes ONLY from AVAILABLE RECIPES. for ${ingredient} or ${course}
+2. NEVER invent a recipe name.
+3. NEVER modify a recipe name.
+4. NEVER use a recipe that is not in AVAILABLE RECIPES.
+5. Do not use any cached recipe.
+
+
+
+10. Vary protein sources.
+11. Vary vegetables.
+12. Vary cooking methods.
+13. Prefer practical and commonly available ingredients.
+14. Follow the TARGET AUDIENCE requirements strictly.
+15. Follow the INGREDIENT REQUIREMENT when possible.
+16. Balance protein, carbohydrates, healthy fats and fiber.
+
+Give nutrition per serving
+
+Include side dishes for lunch Dont give chutneys
+From the selected recipes suggest recipes more suitable for kids
+Dont suggest soups or smoothies for breakfast lunch and dinner
+suggest soups or smoothies along addons
+For every meal generate:
+
+recipe_name
+calories
+prep_time
+cook_time
+cooking_instructions
+ingridients
+macros
+addons
+vitamins
+minerals
+
+MACROS:
+
+protein
+carbs
+fat
+fiber
+
+ADDONS:
+
+Suggest 1-3 optional addons that can increase nutritional value and/or calories.
+
+VITAMINS:
+
+Provide approximate values for:
+
+vitamin_a
+vitamin_c
+vitamin_d
+vitamin_e
+vitamin_k
+thiamin_b1
+riboflavin_b2
+niacin_b3
+vitamin_b6
+folate_b9
+vitamin_b12
+
+MINERALS:
+
+Provide approximate values for:
+
+calcium
+iron
+phosphorus
+iodine
+magnesium
+zinc
+selenium
+copper
+
+Each vitamin/mineral must contain:
+
+amount
+unit
+percent_daily_value
+
+If information is unavailable, use "n/a".
+Give cooking instructions in detail
+// **COOKING INSTRUCTIONS:**
+
+// **1. Prepare the ingredients:**
+//    - Gather and measure all ingredients.
+//    - Wash, peel, chop, slice, or prepare the ingredients as required.
+//    - Prepare any sauces, spices, marinades, or other components before cooking.
+
+// **2. Cook:**
+//    - Heat the pan, pot, oven, or other cooking equipment to the required temperature.
+//    - Add the ingredients in the correct order.
+//    - Cook for the specified time, stirring or turning when necessary.
+//    - Continue cooking until the ingredients reach the appropriate texture, color, and doneness.
+
+// **3. Finish:**
+//    - Check the seasoning and adjust salt, spices, or other ingredients as needed.
+//    - Allow the dish to rest briefly if required.
+//    - Garnish or add any final ingredients.
+
+// **4. Serve:**
+//    - Transfer the finished dish to a serving plate or bowl.
+//    - Serve immediately at the recommended temperature.
+//    - Add optional garnishes or accompaniments if desired.
+
+IMPORTANT OUTPUT RULES:
+
+Return ONLY valid JSON.
+
+Do not use markdown.
+
+Do not use \`\`\`json.
+
+Do not add explanations.
+
+Do not add text before or after the JSON.
+In nutriknow  suggest how the ingridients nutrients and minerals promote health and lifestyle as a nutritionist 
+
+
+`;
+
+    console.log("Prompt Sent");
+
+    // ---------------------------------------------------------
+    // 10. OLLAMA REQUEST
+    // ---------------------------------------------------------
+
+    const result = await ollama.chat({
+      model: "gemma4:31b-cloud",
+
+      messages: [
+        {
+          role: "user",
+          content: prompt
+        }
+      ]
+    });
+
+    promptcount++;
+
+    let output = result?.message?.content || "";
+
+    console.log(
+      "Ollama output characters:",
+      output.length
+    );
+
+    // ---------------------------------------------------------
+    // 11. CLEAN MARKDOWN
+    // ---------------------------------------------------------
+
+    output = output
+      .replace(/```json/gi, "")
+      .replace(/```/g, "")
+      .trim();
+
+    // ---------------------------------------------------------
+    // 12. PARSE JSON
+    // ---------------------------------------------------------
+
+    let jsonResponse;
+
+    try {
+      jsonResponse = JSON.parse(output);
+    } catch (error) {
+      console.error(
+        "Invalid JSON from Ollama:",
+        error.message
+      );
+
+      return res.status(502).json({
+        error: "Ollama returned invalid JSON",
+        raw_output: output.substring(0, 5000)
+      });
+    }
+
+    // ---------------------------------------------------------
+    // 13. VALIDATE MEAL PLAN
+    // ---------------------------------------------------------
+
+    if (
+      !jsonResponse ||
+      !jsonResponse.meal_plan
+    ) {
+      return res.status(502).json({
+        error: "Invalid meal plan structure from Ollama",
+        response: jsonResponse
+      });
+    }
+
+    // ---------------------------------------------------------
+    // 14. RETURN RESPONSE
+    // ---------------------------------------------------------
+
+    return res.json(jsonResponse);
+
+  } catch (error) {
+    console.error(
+      "Recipe generation error:",
+      error
+    );
+
+    // Ollama concurrency / timeout
+    if (
+      error?.status_code === 429 ||
+      error?.status === 429
+    ) {
+      return res.status(429).json({
+        error: "Recipe generation is busy",
+        message:
+          "Another recipe generation request is currently being processed. Please try again shortly."
+      });
+    }
+
+    return res.status(500).json({
+      error: "Recipe generation failed",
+      message: error.message
+    });
+  }
+});
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 router.post("/", upload.single("image"), async (req, res) => {
